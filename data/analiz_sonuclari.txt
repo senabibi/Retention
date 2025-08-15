@@ -1,0 +1,989 @@
+=== NUMERİK SÜTUN ANALİZİ ===
+
+* 1. Yaş:
+  - Min: 21
+  - Max: 67
+  - Ortalama: 33.32
+  - Medyan: 32.0
+  - Eksik Değer: 0
+
+
+=== KATEGORİK SÜTUN ANALİZİ ===
+
+* Zaman damgası:
+  - Benzersiz değer sayısı: 246
+  - En sık 5 değer:
+    - 4/27/2022 18:50:39: 1 (%0.4)
+    - 4/27/2022 19:01:34: 1 (%0.4)
+    - 4/27/2022 21:00:26: 1 (%0.4)
+    - 4/27/2022 21:10:12: 1 (%0.4)
+    - 4/27/2022 21:25:53: 1 (%0.4)
+  - Eksik Değer: 0
+
+* 2. Cinsiyet:
+  - Benzersiz değer sayısı: 3
+  - En sık 5 değer:
+    - Erkek: 198 (%80.5)
+    - Kadın: 47 (%19.1)
+    - Cevap vermek istemiyorum.: 1 (%0.4)
+  - Eksik Değer: 0
+
+* 3. Öğrenim Durumu:
+  - Benzersiz değer sayısı: 6
+  - En sık 5 değer:
+    - Lisans: 158 (%64.2)
+    - Yüksek Lisans: 66 (%26.8)
+    - Ön Lisans: 12 (%4.9)
+    - Doktora: 6 (%2.4)
+    - Lise: 3 (%1.2)
+  - Eksik Değer: 0
+
+* 4. Yaşadığınız Şehir:
+  - Benzersiz değer sayısı: 45
+  - En sık 5 değer:
+    - ANKARA: 95 (%38.6)
+    - İSTANBUL: 47 (%19.1)
+    - İZMİR: 18 (%7.3)
+    - KOCAELİ: 7 (%2.8)
+    - BURSA: 6 (%2.4)
+  - Eksik Değer: 0
+
+* 5. Toplam iş tecrübeniz(yıl):
+  - Benzersiz değer sayısı: 33
+  - En sık 5 değer:
+    - 1  Yıl: 26 (%10.6)
+    - 2  Yıl: 20 (%8.1)
+    - 5  Yıl: 18 (%7.3)
+    - 3  Yıl: 17 (%6.9)
+    - 4  Yıl: 15 (%6.1)
+  - Eksik Değer: 0
+
+* 6. Çalıştığınız kurumdaki çalışan sayısı:
+  - Benzersiz değer sayısı: 9
+  - En sık 5 değer:
+    - > 1000: 60 (%24.4)
+    - 11-50 arası: 41 (%16.7)
+    - 201 -500 arası: 36 (%14.6)
+    - 51-100 arası: 27 (%11.0)
+    - 101-200 arası: 23 (%9.3)
+  - Eksik Değer: 0
+
+* 7. Çalıştığınız sektör:
+  - Benzersiz değer sayısı: 15
+  - En sık 5 değer:
+    - Bilişim: 126 (%51.2)
+    - e-Ticaret: 24 (%9.8)
+    - Finans – Ekonomi: 18 (%7.3)
+    - Diğer: 16 (%6.5)
+    - Savunma Sanayi: 15 (%6.1)
+  - Eksik Değer: 0
+
+* 8. Yazılım yaşam döngüsündeki göreviniz:
+  - Benzersiz değer sayısı: 14
+  - En sık 5 değer:
+    - Yazılım Mühendisi/Uzmanı: 122 (%49.6)
+    - Takım Lideri/Grup Lideri: 34 (%13.8)
+    - Direktör/Üst Düzey Yönetici: 22 (%8.9)
+    - Proje/Program Yöneticisi: 17 (%6.9)
+    - Test Mühendisi/Uzmanı: 14 (%5.7)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Gereksinimlerin tam/doğru dokümante edilmemesi]:
+  - Benzersiz değer sayısı: 8
+  - En sık 5 değer:
+    - Sık sık bu sorunla karşılaşıyorum: 107 (%43.5)
+    - Her zaman bu sorunla karşılaşıyorum: 51 (%20.7)
+    - Bazen bu sorunla karşılaşıyorum: 50 (%20.3)
+    - Nadiren bu sorunla karşılaştım: 28 (%11.4)
+    - Sık sık: 5 (%2.0)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Kabul kriterlerinin belirlenmemesi]:
+  - Benzersiz değer sayısı: 9
+  - En sık 5 değer:
+    - Sık sık bu sorunla karşılaşıyorum: 85 (%34.6)
+    - Bazen bu sorunla karşılaşıyorum: 67 (%27.2)
+    - Her zaman bu sorunla karşılaşıyorum: 39 (%15.9)
+    - Nadiren bu sorunla karşılaştım: 39 (%15.9)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 8 (%3.3)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Son kullanıcıyı yeterince tanımama]:
+  - Benzersiz değer sayısı: 10
+  - En sık 5 değer:
+    - Bazen bu sorunla karşılaşıyorum: 90 (%36.6)
+    - Nadiren bu sorunla karşılaştım: 61 (%24.8)
+    - Sık sık bu sorunla karşılaşıyorum: 51 (%20.7)
+    - Her zaman bu sorunla karşılaşıyorum: 21 (%8.5)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 15 (%6.1)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Mimari tasarımın doğru yapılmaması]:
+  - Benzersiz değer sayısı: 10
+  - En sık 5 değer:
+    - Bazen bu sorunla karşılaşıyorum: 91 (%37.0)
+    - Nadiren bu sorunla karşılaştım: 62 (%25.2)
+    - Sık sık bu sorunla karşılaşıyorum: 45 (%18.3)
+    - Her zaman bu sorunla karşılaşıyorum: 22 (%8.9)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 18 (%7.3)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Prototip tasarlayarak müşteriden/ürün yöneticisinden geri bildirim alma pratiğinin uygulanmaması]:
+  - Benzersiz değer sayısı: 9
+  - En sık 5 değer:
+    - Bazen bu sorunla karşılaşıyorum: 76 (%30.9)
+    - Nadiren bu sorunla karşılaştım: 56 (%22.8)
+    - Sık sık bu sorunla karşılaşıyorum: 49 (%19.9)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 30 (%12.2)
+    - Her zaman bu sorunla karşılaşıyorum: 27 (%11.0)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Geliştirilecek yazılım için efor kestiriminin(süre) üst yönetim tarafından belirlenmesi]:
+  - Benzersiz değer sayısı: 9
+  - En sık 5 değer:
+    - Sık sık bu sorunla karşılaşıyorum: 55 (%22.4)
+    - Bazen bu sorunla karşılaşıyorum: 55 (%22.4)
+    - Nadiren bu sorunla karşılaştım: 54 (%22.0)
+    - Her zaman bu sorunla karşılaşıyorum: 40 (%16.3)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 34 (%13.8)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Proje planının doğru yapılmaması]:
+  - Benzersiz değer sayısı: 8
+  - En sık 5 değer:
+    - Bazen bu sorunla karşılaşıyorum: 72 (%29.3)
+    - Sık sık bu sorunla karşılaşıyorum: 60 (%24.4)
+    - Nadiren bu sorunla karşılaştım: 56 (%22.8)
+    - Her zaman bu sorunla karşılaşıyorum: 34 (%13.8)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 16 (%6.5)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Değişiklik isteklerinin kontrol altına alınmaması, proje planına yansıltılmaması]:
+  - Benzersiz değer sayısı: 8
+  - En sık 5 değer:
+    - Bazen bu sorunla karşılaşıyorum: 78 (%31.7)
+    - Nadiren bu sorunla karşılaştım: 53 (%21.5)
+    - Her zaman bu sorunla karşılaşıyorum: 46 (%18.7)
+    - Sık sık bu sorunla karşılaşıyorum: 46 (%18.7)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 15 (%6.1)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Risklerin yönetilmemesi]:
+  - Benzersiz değer sayısı: 10
+  - En sık 5 değer:
+    - Bazen bu sorunla karşılaşıyorum: 82 (%33.3)
+    - Nadiren bu sorunla karşılaştım: 55 (%22.4)
+    - Sık sık bu sorunla karşılaşıyorum: 53 (%21.5)
+    - Her zaman bu sorunla karşılaşıyorum: 27 (%11.0)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 21 (%8.5)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Yazılım ölçüm yönteminin belirlenmemesi]:
+  - Benzersiz değer sayısı: 9
+  - En sık 5 değer:
+    - Bazen bu sorunla karşılaşıyorum: 77 (%31.3)
+    - Sık sık bu sorunla karşılaşıyorum: 57 (%23.2)
+    - Nadiren bu sorunla karşılaştım: 55 (%22.4)
+    - Her zaman bu sorunla karşılaşıyorum: 26 (%10.6)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 23 (%9.3)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Yazılım ekibinin teknik yetkinliğe sahip olmaması]:
+  - Benzersiz değer sayısı: 9
+  - En sık 5 değer:
+    - Nadiren bu sorunla karşılaştım: 88 (%35.8)
+    - Bazen bu sorunla karşılaşıyorum: 65 (%26.4)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 41 (%16.7)
+    - Sık sık bu sorunla karşılaşıyorum: 31 (%12.6)
+    - Her zaman bu sorunla karşılaşıyorum: 13 (%5.3)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Ekip içinde iletişim eksikliği]:
+  - Benzersiz değer sayısı: 9
+  - En sık 5 değer:
+    - Nadiren bu sorunla karşılaştım: 78 (%31.7)
+    - Bazen bu sorunla karşılaşıyorum: 68 (%27.6)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 48 (%19.5)
+    - Sık sık bu sorunla karşılaşıyorum: 26 (%10.6)
+    - Her zaman bu sorunla karşılaşıyorum: 18 (%7.3)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Ekip içi rollerin belirsiz olması]:
+  - Benzersiz değer sayısı: 8
+  - En sık 5 değer:
+    - Nadiren bu sorunla karşılaştım: 72 (%29.3)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 66 (%26.8)
+    - Bazen bu sorunla karşılaşıyorum: 53 (%21.5)
+    - Sık sık bu sorunla karşılaşıyorum: 29 (%11.8)
+    - Her zaman bu sorunla karşılaşıyorum: 18 (%7.3)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Kodların gözden geçirilmemesi]:
+  - Benzersiz değer sayısı: 9
+  - En sık 5 değer:
+    - Nadiren bu sorunla karşılaştım: 71 (%28.9)
+    - Bazen bu sorunla karşılaşıyorum: 57 (%23.2)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 49 (%19.9)
+    - Sık sık bu sorunla karşılaşıyorum: 40 (%16.3)
+    - Her zaman bu sorunla karşılaşıyorum: 21 (%8.5)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Hataların yönetilememesi]:
+  - Benzersiz değer sayısı: 9
+  - En sık 5 değer:
+    - Bazen bu sorunla karşılaşıyorum: 77 (%31.3)
+    - Nadiren bu sorunla karşılaştım: 77 (%31.3)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 45 (%18.3)
+    - Sık sık bu sorunla karşılaşıyorum: 23 (%9.3)
+    - Her zaman bu sorunla karşılaşıyorum: 16 (%6.5)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Versiyon kontrolünün yapılmaması]:
+  - Benzersiz değer sayısı: 10
+  - En sık 5 değer:
+    - Hiç bir zaman bu sorunla karşılaşmadım: 77 (%31.3)
+    - Nadiren bu sorunla karşılaştım: 71 (%28.9)
+    - Bazen bu sorunla karşılaşıyorum: 55 (%22.4)
+    - Sık sık bu sorunla karşılaşıyorum: 25 (%10.2)
+    - Her zaman bu sorunla karşılaşıyorum: 10 (%4.1)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Test planlarının yapılmaması]:
+  - Benzersiz değer sayısı: 9
+  - En sık 5 değer:
+    - Bazen bu sorunla karşılaşıyorum: 69 (%28.0)
+    - Nadiren bu sorunla karşılaştım: 59 (%24.0)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 41 (%16.7)
+    - Sık sık bu sorunla karşılaşıyorum: 41 (%16.7)
+    - Her zaman bu sorunla karşılaşıyorum: 28 (%11.4)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [müşteri/ürün yöneticisi ile ekip arasındaki iletişim eksikliği]:
+  - Benzersiz değer sayısı: 8
+  - En sık 5 değer:
+    - Bazen bu sorunla karşılaşıyorum: 73 (%29.7)
+    - Nadiren bu sorunla karşılaştım: 72 (%29.3)
+    - Sık sık bu sorunla karşılaşıyorum: 54 (%22.0)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 27 (%11.0)
+    - Her zaman bu sorunla karşılaşıyorum: 12 (%4.9)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Kurulum/canlıya alma sürecinin yazılı olmaması]:
+  - Benzersiz değer sayısı: 8
+  - En sık 5 değer:
+    - Bazen bu sorunla karşılaşıyorum: 60 (%24.4)
+    - Nadiren bu sorunla karşılaştım: 55 (%22.4)
+    - Sık sık bu sorunla karşılaşıyorum: 46 (%18.7)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 45 (%18.3)
+    - Her zaman bu sorunla karşılaşıyorum: 32 (%13.0)
+  - Eksik Değer: 0
+
+* 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Bilgi paylaşımının yeterli olmaması]:
+  - Benzersiz değer sayısı: 9
+  - En sık 5 değer:
+    - Nadiren bu sorunla karşılaştım: 64 (%26.0)
+    - Bazen bu sorunla karşılaşıyorum: 63 (%25.6)
+    - Sık sık bu sorunla karşılaşıyorum: 49 (%19.9)
+    - Hiç bir zaman bu sorunla karşılaşmadım: 40 (%16.3)
+    - Her zaman bu sorunla karşılaşıyorum: 22 (%8.9)
+  - Eksik Değer: 0
+
+* 10. Çalıştığınız kurum yurt dışına yazılım ihracatı yapıyor mu?:
+  - Benzersiz değer sayısı: 6
+  - En sık 5 değer:
+    - EVET: 142 (%57.7)
+    - HAYIR: 85 (%34.6)
+    - Bilgim yok: 16 (%6.5)
+    - Ürün içi yazılım ihracatı şeklinde düşünülebilir: 1 (%0.4)
+    - Düzenli bir ihracatı yok: 1 (%0.4)
+  - Eksik Değer: 0
+
+* 11. Projelerinizde hangi yazılım yaşam döngüsü metodolojisini kullanıyorsunuz?:
+  - Benzersiz değer sayısı: 13
+  - En sık 5 değer:
+    - Çevik(agile): 145 (%58.9)
+    - Her ikisini de uyguluyoruz: 67 (%27.2)
+    - Şelale(waterfall): 24 (%9.8)
+    - Face: 1 (%0.4)
+    - her ikisi de: 1 (%0.4)
+  - Eksik Değer: 0
+
+* 12. Çalıştığınız kurumda bir Yazılım Kalite Birimi var mı?:
+  - Benzersiz değer sayısı: 3
+  - En sık 5 değer:
+    - HAYIR: 118 (%48.0)
+    - EVET: 104 (%42.3)
+    - Emin değilim.: 24 (%9.8)
+  - Eksik Değer: 0
+
+* 13. Çalıştığınız kurumda aşağıdaki ölçümlerden hangileri yapılıyor?:
+  - Benzersiz değer sayısı: 125
+  - En sık 5 değer:
+    - Hiçbiri: 20 (%8.1)
+    - Kod karmaşıklığı, Yazılım ekibinin üretkenliği, Tespit edilen hata sayısı, Test verimlilik oranı, Hataların ortalama çözülme süresi, Gereksinimlerdeki değişiklik oranı, Sistemin güvenirliği, Kullanılabilirlik: 14 (%5.7)
+    - Tespit edilen hata sayısı, Hataların ortalama çözülme süresi: 7 (%2.8)
+    - Yazılım ekibinin üretkenliği, Sistemin güvenirliği, Kullanılabilirlik: 6 (%2.4)
+    - Kod karmaşıklığı, Sistemin güvenirliği, Kullanılabilirlik: 5 (%2.0)
+  - Eksik Değer: 0
+
+* 14. Kurumunuzun sahip olduğu kalite sertifikalarını işaretleyiniz. (Birden fazla seçeneği işaretleyebilirsiniz):
+  - Benzersiz değer sayısı: 55
+  - En sık 5 değer:
+    - Bilgim yok.: 108 (%43.9)
+    - Hiçbiri: 41 (%16.7)
+    - ISO 9001, ISO 27001: 17 (%6.9)
+    - ISO 27001: 10 (%4.1)
+    - SPICE - ISO/IEC 15504: Bilgi teknolojisi – Süreç değerlendirmesi: 5 (%2.0)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Karar Alma Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 88 (%35.8)
+    - Yazılı bir süreç mevcut.: 58 (%23.6)
+    - İyi işleyen yazılı bir süreç mevcut.: 37 (%15.0)
+    - Süreç tanımlı değil.: 37 (%15.0)
+    - Emin değilim.: 26 (%10.6)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [İletişim Yönetimi Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 85 (%34.6)
+    - Yazılı bir süreç mevcut.: 51 (%20.7)
+    - Süreç tanımlı değil.: 50 (%20.3)
+    - Emin değilim.: 33 (%13.4)
+    - İyi işleyen yazılı bir süreç mevcut.: 27 (%11.0)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Bilgi Yönetimi Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 75 (%30.5)
+    - Yazılı bir süreç mevcut.: 69 (%28.0)
+    - Süreç tanımlı değil.: 39 (%15.9)
+    - Emin değilim.: 32 (%13.0)
+    - İyi işleyen yazılı bir süreç mevcut.: 31 (%12.6)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Gereksinim Analizi Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 80 (%32.5)
+    - Yazılı bir süreç mevcut.: 74 (%30.1)
+    - İyi işleyen yazılı bir süreç mevcut.: 42 (%17.1)
+    - Süreç tanımlı değil.: 32 (%13.0)
+    - Emin değilim.: 18 (%7.3)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Mimari Tasarım Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 87 (%35.4)
+    - Yazılı bir süreç mevcut.: 75 (%30.5)
+    - İyi işleyen yazılı bir süreç mevcut.: 38 (%15.4)
+    - Süreç tanımlı değil.: 31 (%12.6)
+    - Emin değilim.: 15 (%6.1)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Proje Planlama Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Yazılı bir süreç mevcut.: 89 (%36.2)
+    - Sözde bir süreç var fakat yazılı değil.: 81 (%32.9)
+    - İyi işleyen yazılı bir süreç mevcut.: 43 (%17.5)
+    - Süreç tanımlı değil.: 21 (%8.5)
+    - Emin değilim.: 12 (%4.9)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Geliştirme Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Yazılı bir süreç mevcut.: 95 (%38.6)
+    - Sözde bir süreç var fakat yazılı değil.: 78 (%31.7)
+    - İyi işleyen yazılı bir süreç mevcut.: 48 (%19.5)
+    - Süreç tanımlı değil.: 16 (%6.5)
+    - Emin değilim.: 9 (%3.7)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Proje Değerlendirme ve Kontrol Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Yazılı bir süreç mevcut.: 86 (%35.0)
+    - Sözde bir süreç var fakat yazılı değil.: 69 (%28.0)
+    - İyi işleyen yazılı bir süreç mevcut.: 39 (%15.9)
+    - Süreç tanımlı değil.: 35 (%14.2)
+    - Emin değilim.: 17 (%6.9)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Konfigürasyon Yönetimi Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 86 (%35.0)
+    - Yazılı bir süreç mevcut.: 58 (%23.6)
+    - Süreç tanımlı değil.: 40 (%16.3)
+    - İyi işleyen yazılı bir süreç mevcut.: 38 (%15.4)
+    - Emin değilim.: 24 (%9.8)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Ölçüm Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 82 (%33.3)
+    - Yazılı bir süreç mevcut.: 60 (%24.4)
+    - Süreç tanımlı değil.: 48 (%19.5)
+    - Emin değilim.: 34 (%13.8)
+    - İyi işleyen yazılı bir süreç mevcut.: 22 (%8.9)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Test Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Yazılı bir süreç mevcut.: 82 (%33.3)
+    - Sözde bir süreç var fakat yazılı değil.: 74 (%30.1)
+    - İyi işleyen yazılı bir süreç mevcut.: 37 (%15.0)
+    - Süreç tanımlı değil.: 32 (%13.0)
+    - Emin değilim.: 21 (%8.5)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Entegrasyon Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Yazılı bir süreç mevcut.: 74 (%30.1)
+    - Sözde bir süreç var fakat yazılı değil.: 72 (%29.3)
+    - Süreç tanımlı değil.: 39 (%15.9)
+    - İyi işleyen yazılı bir süreç mevcut.: 35 (%14.2)
+    - Emin değilim.: 26 (%10.6)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Kurulum Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Yazılı bir süreç mevcut.: 77 (%31.3)
+    - Sözde bir süreç var fakat yazılı değil.: 72 (%29.3)
+    - İyi işleyen yazılı bir süreç mevcut.: 46 (%18.7)
+    - Süreç tanımlı değil.: 26 (%10.6)
+    - Emin değilim.: 25 (%10.2)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Bakım Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 83 (%33.7)
+    - Yazılı bir süreç mevcut.: 72 (%29.3)
+    - İyi işleyen yazılı bir süreç mevcut.: 38 (%15.4)
+    - Süreç tanımlı değil.: 27 (%11.0)
+    - Emin değilim.: 26 (%10.6)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Kalite Yönetimi Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 73 (%29.7)
+    - Yazılı bir süreç mevcut.: 66 (%26.8)
+    - Süreç tanımlı değil.: 46 (%18.7)
+    - İyi işleyen yazılı bir süreç mevcut.: 33 (%13.4)
+    - Emin değilim.: 28 (%11.4)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [İnsan Kaynağı Yönetimi Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 69 (%28.0)
+    - Yazılı bir süreç mevcut.: 65 (%26.4)
+    - Emin değilim.: 48 (%19.5)
+    - Süreç tanımlı değil.: 41 (%16.7)
+    - İyi işleyen yazılı bir süreç mevcut.: 23 (%9.3)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Yaşam Döngüsü Modeli Yönetimi Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 80 (%32.5)
+    - Yazılı bir süreç mevcut.: 52 (%21.1)
+    - Süreç tanımlı değil.: 43 (%17.5)
+    - Emin değilim.: 38 (%15.4)
+    - İyi işleyen yazılı bir süreç mevcut.: 33 (%13.4)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Altyapı Yönetimi Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 79 (%32.1)
+    - Yazılı bir süreç mevcut.: 58 (%23.6)
+    - Süreç tanımlı değil.: 41 (%16.7)
+    - Emin değilim.: 40 (%16.3)
+    - İyi işleyen yazılı bir süreç mevcut.: 28 (%11.4)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Risk Yönetimi Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 70 (%28.5)
+    - Yazılı bir süreç mevcut.: 58 (%23.6)
+    - Süreç tanımlı değil.: 48 (%19.5)
+    - Emin değilim.: 41 (%16.7)
+    - İyi işleyen yazılı bir süreç mevcut.: 29 (%11.8)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Portföy Yönetimi Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 71 (%28.9)
+    - Emin değilim.: 58 (%23.6)
+    - Süreç tanımlı değil.: 55 (%22.4)
+    - Yazılı bir süreç mevcut.: 44 (%17.9)
+    - İyi işleyen yazılı bir süreç mevcut.: 18 (%7.3)
+  - Eksik Değer: 0
+
+* 15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Yazılım Tasfiye Süreci]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Sözde bir süreç var fakat yazılı değil.: 74 (%30.1)
+    - Emin değilim.: 57 (%23.2)
+    - Süreç tanımlı değil.: 54 (%22.0)
+    - Yazılı bir süreç mevcut.: 41 (%16.7)
+    - İyi işleyen yazılı bir süreç mevcut.: 20 (%8.1)
+  - Eksik Değer: 0
+
+* 16. Aşağıdaki test yöntemlerinden hangileri kurumunuzda düzenli olarak uygulanmaktadır?(Birden fazla seçeneği işaretleyebilirsiniz):
+  - Benzersiz değer sayısı: 136
+  - En sık 5 değer:
+    - Birim Testi(unit test), Fonksiyonel Test, Regresyon Testi, Entegrasyon Testi, Kullanılabilirlik Testi, Yük Testi (Load Test), Sızma Testi (Penetration Test), Kullanıcı Kabul Testi, Duman Testi(smoke test): 11 (%4.5)
+    - Birim Testi(unit test), Fonksiyonel Test, Regresyon Testi, Entegrasyon Testi, Kullanılabilirlik Testi, Yük Testi (Load Test), Sızma Testi (Penetration Test), Kullanıcı Kabul Testi: 9 (%3.7)
+    - Kullanıcı Kabul Testi: 8 (%3.3)
+    - Birim Testi(unit test), Fonksiyonel Test, Regresyon Testi, Entegrasyon Testi, Yük Testi (Load Test), Sızma Testi (Penetration Test), Kullanıcı Kabul Testi, Duman Testi(smoke test): 6 (%2.4)
+    - Birim Testi(unit test), Kullanıcı Kabul Testi: 5 (%2.0)
+  - Eksik Değer: 0
+
+* 17. Yazılım geliştirme yaşam döngüsünün hangi alanları için bir otomasyon aracı kullanmaktasınız? Örneğin Jira, Ms Project, Git, Teamwork...(Birden fazla seçeneği işaretleyebilirsiniz):
+  - Benzersiz değer sayısı: 55
+  - En sık 5 değer:
+    - Gereksinim yönetimi, Kullanıcı Arayüz Tasarımı, Proje yönetimi, Hata takibi, Versiyon kontrolü, Kod yönetimi: 60 (%24.4)
+    - Gereksinim yönetimi, Proje yönetimi, Hata takibi, Versiyon kontrolü, Kod yönetimi: 26 (%10.6)
+    - Hata takibi, Versiyon kontrolü, Kod yönetimi: 11 (%4.5)
+    - Proje yönetimi, Versiyon kontrolü: 11 (%4.5)
+    - Kullanıcı Arayüz Tasarımı, Proje yönetimi, Hata takibi, Versiyon kontrolü, Kod yönetimi: 9 (%3.7)
+  - Eksik Değer: 3
+
+* 18. Çalıştığınız kurumda işe alımdan sonra, kişilere kurumsal yazılım yaşam döngüsü süreçleri hakkında bir eğitim/oryantasyon sağlanıyor mu?:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - EVET: 111 (%45.1)
+    - Yetersiz/kısa bir oryantasyon sağlanıyor.: 89 (%36.2)
+    - HAYIR: 44 (%17.9)
+    - Sürekli Pair Programming yapıyoruz.: 1 (%0.4)
+    - Talebe göre: 1 (%0.4)
+  - Eksik Değer: 0
+
+* 19. Aşağıdaki yazılım kalite standartlarından bilgi sahibi olduklarınızı işaretleyiniz.(Birden fazla seçeneği işaretleyebilirsiniz):
+  - Benzersiz değer sayısı: 73
+  - En sık 5 değer:
+    - Hiçbiri: 118 (%48.0)
+    - CMMI: 23 (%9.3)
+    - ISO/IEC 12207: Yazılım yaşam döngüsü süreçleri ve yaşam döngüsü verileri standardı: 8 (%3.3)
+    - ISO/IEC 12207: Yazılım yaşam döngüsü süreçleri ve yaşam döngüsü verileri standardı, SPICE - ISO/IEC 15504: Bilgi teknolojisi – Süreç değerlendirmesi: 5 (%2.0)
+    - Six Sigma: 5 (%2.0)
+  - Eksik Değer: 0
+
+* 20. Yazılım kalite standartları konusunda hiç eğitim aldınız mı?:
+  - Benzersiz değer sayısı: 10
+  - En sık 5 değer:
+    - Eğitim almadım.: 96 (%39.0)
+    - Lisans'ta Yazılım kalite standartları konusunda eğitim aldım.: 62 (%25.2)
+    - İş yerinde Yazılım kalite standartları konusunda eğitim aldım.: 47 (%19.1)
+    - Özel bir eğitim kurumunda Yazılım kalite standartları konusunda eğitim aldım.: 14 (%5.7)
+    - Yüksek Lisans'ta Yazılım kalite standartları konusunda eğitim aldım.: 14 (%5.7)
+  - Eksik Değer: 1
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kurumun bilgi birikimini kayıtlı hale getirir.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Kesinlikle katılıyorum: 110 (%44.7)
+    - Katılıyorum: 107 (%43.5)
+    - Kararsızım: 19 (%7.7)
+    - Kısmen katılıyorum: 6 (%2.4)
+    - Hiç katılmıyorum: 4 (%1.6)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Şirkette doğru ve ortak bir terminoloji kullanılmasına yardımcı olur.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Kesinlikle katılıyorum: 117 (%47.6)
+    - Katılıyorum: 103 (%41.9)
+    - Kararsızım: 15 (%6.1)
+    - Kısmen katılıyorum: 7 (%2.8)
+    - Hiç katılmıyorum: 4 (%1.6)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kurum pratiklerini zamanla iyileştirir.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Kesinlikle katılıyorum: 107 (%43.5)
+    - Katılıyorum: 107 (%43.5)
+    - Kararsızım: 19 (%7.7)
+    - Kısmen katılıyorum: 8 (%3.3)
+    - Hiç katılmıyorum: 5 (%2.0)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Ekip üyelerinin iş tanımlarını daha iyi anlamalarını sağlar.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Kesinlikle katılıyorum: 106 (%43.1)
+    - Katılıyorum: 102 (%41.5)
+    - Kararsızım: 25 (%10.2)
+    - Kısmen katılıyorum: 9 (%3.7)
+    - Hiç katılmıyorum: 4 (%1.6)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kurum içi iletişimi kolaylaştırır.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Kesinlikle katılıyorum: 91 (%37.0)
+    - Katılıyorum: 83 (%33.7)
+    - Kararsızım: 45 (%18.3)
+    - Kısmen katılıyorum: 17 (%6.9)
+    - Hiç katılmıyorum: 10 (%4.1)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Projeye sonradan katılanların projeyi öğrenme süresini kısaltır.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Kesinlikle katılıyorum: 113 (%45.9)
+    - Katılıyorum: 88 (%35.8)
+    - Kararsızım: 30 (%12.2)
+    - Kısmen katılıyorum: 10 (%4.1)
+    - Hiç katılmıyorum: 5 (%2.0)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Gereksinimlerin hem müşteri hem de yazılım ekibi tarafından onaylanmasını sağlar.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Kesinlikle katılıyorum: 102 (%41.5)
+    - Katılıyorum: 95 (%38.6)
+    - Kararsızım: 32 (%13.0)
+    - Kısmen katılıyorum: 12 (%4.9)
+    - Hiç katılmıyorum: 5 (%2.0)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Planlamayı kolaylaştırır.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Kesinlikle katılıyorum: 114 (%46.3)
+    - Katılıyorum: 96 (%39.0)
+    - Kararsızım: 21 (%8.5)
+    - Kısmen katılıyorum: 8 (%3.3)
+    - Hiç katılmıyorum: 7 (%2.8)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kodlarda değişiklik ihtiyacını azaltır.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 87 (%35.4)
+    - Kesinlikle katılıyorum: 76 (%30.9)
+    - Kararsızım: 59 (%24.0)
+    - Kısmen katılıyorum: 13 (%5.3)
+    - Hiç katılmıyorum: 11 (%4.5)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Projenin zamanında tamamlanmasında etkili rol oynar.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 94 (%38.2)
+    - Kesinlikle katılıyorum: 83 (%33.7)
+    - Kararsızım: 47 (%19.1)
+    - Kısmen katılıyorum: 15 (%6.1)
+    - Hiç katılmıyorum: 7 (%2.8)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kullanıcı dostu yazılım geliştirme için gerekli altyapıyı sağlar.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 85 (%34.6)
+    - Kesinlikle katılıyorum: 78 (%31.7)
+    - Kararsızım: 49 (%19.9)
+    - Kısmen katılıyorum: 21 (%8.5)
+    - Hiç katılmıyorum: 13 (%5.3)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Hata sayısını azaltır.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 101 (%41.1)
+    - Kesinlikle katılıyorum: 79 (%32.1)
+    - Kararsızım: 45 (%18.3)
+    - Kısmen katılıyorum: 14 (%5.7)
+    - Hiç katılmıyorum: 7 (%2.8)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Yazılımların bakım maliyetini azaltır.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 103 (%41.9)
+    - Kesinlikle katılıyorum: 80 (%32.5)
+    - Kararsızım: 42 (%17.1)
+    - Kısmen katılıyorum: 13 (%5.3)
+    - Hiç katılmıyorum: 8 (%3.3)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kullanıcı memnuniyetini arttırır.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 90 (%36.6)
+    - Kesinlikle katılıyorum: 76 (%30.9)
+    - Kararsızım: 58 (%23.6)
+    - Kısmen katılıyorum: 13 (%5.3)
+    - Hiç katılmıyorum: 9 (%3.7)
+  - Eksik Değer: 0
+
+* 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Şirketin rekabet gücünü arttırır.]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 93 (%37.8)
+    - Kesinlikle katılıyorum: 91 (%37.0)
+    - Kararsızım: 46 (%18.7)
+    - Kısmen katılıyorum: 9 (%3.7)
+    - Hiç katılmıyorum: 7 (%2.8)
+  - Eksik Değer: 0
+
+* 22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Standartlar hakkında yetkin insan kaynağının yeterli sayıda olmaması]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 125 (%50.8)
+    - Kesinlikle katılıyorum: 55 (%22.4)
+    - Kararsızım: 33 (%13.4)
+    - Kısmen katılıyorum: 23 (%9.3)
+    - Hiç katılmıyorum: 10 (%4.1)
+  - Eksik Değer: 0
+
+* 22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Sektörde standartlarla ilgili farkındalığın düşük olması]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 114 (%46.3)
+    - Kesinlikle katılıyorum: 73 (%29.7)
+    - Kararsızım: 32 (%13.0)
+    - Kısmen katılıyorum: 19 (%7.7)
+    - Hiç katılmıyorum: 8 (%3.3)
+  - Eksik Değer: 0
+
+* 22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Kalite standartlarını uygulamak için bütçe ayrılmaması]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 109 (%44.3)
+    - Kesinlikle katılıyorum: 76 (%30.9)
+    - Kararsızım: 41 (%16.7)
+    - Kısmen katılıyorum: 16 (%6.5)
+    - Hiç katılmıyorum: 4 (%1.6)
+  - Eksik Değer: 0
+
+* 22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Üst yönetimin kalite aktivitelerine destek vermemesi]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 95 (%38.6)
+    - Kararsızım: 66 (%26.8)
+    - Kesinlikle katılıyorum: 55 (%22.4)
+    - Kısmen katılıyorum: 23 (%9.3)
+    - Hiç katılmıyorum: 7 (%2.8)
+  - Eksik Değer: 0
+
+* 22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Şirket kültürünün standartları uygulamaya hazır olmaması]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 92 (%37.4)
+    - Kesinlikle katılıyorum: 63 (%25.6)
+    - Kararsızım: 58 (%23.6)
+    - Kısmen katılıyorum: 21 (%8.5)
+    - Hiç katılmıyorum: 12 (%4.9)
+  - Eksik Değer: 0
+
+* 22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Kalite standartlarının şirkete faydalı olacağına dair bir inanca sahip olmama]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 91 (%37.0)
+    - Kararsızım: 63 (%25.6)
+    - Kesinlikle katılıyorum: 52 (%21.1)
+    - Kısmen katılıyorum: 21 (%8.5)
+    - Hiç katılmıyorum: 19 (%7.7)
+  - Eksik Değer: 0
+
+* 22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Standartların proje süresini uzatacağı düşüncesi]:
+  - Benzersiz değer sayısı: 5
+  - En sık 5 değer:
+    - Katılıyorum: 88 (%35.8)
+    - Kesinlikle katılıyorum: 84 (%34.1)
+    - Kararsızım: 52 (%21.1)
+    - Kısmen katılıyorum: 13 (%5.3)
+    - Hiç katılmıyorum: 9 (%3.7)
+  - Eksik Değer: 0
+
+* 23. Bireysel olarak iş süreçlerinizi iyileştirmek veya projelerinizdeki aksaklıklara çözüm yolları bulmak için uluslararası standartlara başvuruyor musunuz? Örneğin, ISO/IEC, IEEE, CMMI...:
+  - Benzersiz değer sayısı: 7
+  - En sık 5 değer:
+    - HAYIR: 164 (%66.7)
+    - EVET: 77 (%31.3)
+    - DO-178C: 1 (%0.4)
+    - IoT protokolleri dolayısı ile IEC standardını kullanıyorum: 1 (%0.4)
+    - Zamanım yok ama hep aklımda: 1 (%0.4)
+  - Eksik Değer: 0
+
+* 24. Süreçleri iyileştirmek için uluslararası kalite standartlarına başvurmama sebepleriniz nelerdir?(Birden fazla seçeneği işaretleyebilirsiniz):
+  - Benzersiz değer sayısı: 89
+  - En sık 5 değer:
+    - Standartları öğrenmek/araştırmak için yeterli zamanım yok.: 25 (%10.2)
+    - Uluslararası kalite standartlarına nasıl erişeceğimi bilmiyorum., Hangi bilgiyi hangi standardın içinde bulabileceğimi bilmiyorum., Standartları öğrenmek/araştırmak için yeterli zamanım yok., Standartları kullanabilmek için öncelikle bir rehbere ihtiyacım var.: 14 (%5.7)
+    - Standartları kullanabilmek için öncelikle bir rehbere ihtiyacım var.: 13 (%5.3)
+    - Uluslararası kalite standartlarına nasıl erişeceğimi bilmiyorum.: 11 (%4.5)
+    - Standartlar üzerinden süreç iyileştirme çabamın iş ortamında takdir göreceğini düşünmüyorum.: 10 (%4.1)
+  - Eksik Değer: 24
+
+* 25. Türkiye'de yazılım sektöründe, yazılım kalite standartları hakkında yeterli bilgi birikiminin olduğunu düşünüyor musunuz?:
+  - Benzersiz değer sayısı: 6
+  - En sık 5 değer:
+    - HAYIR: 215 (%87.4)
+    - EVET: 27 (%11.0)
+    - Kararsızım: 1 (%0.4)
+    - kısmen; büyük kurumlar ve kamu kesimiyle çalışan şirketlerin şartnamelerdeki sertifikasyon ve standart şartlarını karşılaması gerekiyor : 1 (%0.4)
+    - Telekomünikasyon sektöründe kalite standartları yakından takip ediliyor : 1 (%0.4)
+  - Eksik Değer: 0
+
+* 26. Yazılım kalite standartları konusundaki yetkinlik seviyeniz aşağıdakilerden hangisidir?:
+  - Benzersiz değer sayısı: 4
+  - En sık 5 değer:
+    - Başlangıç seviyesinde: 98 (%39.8)
+    - Orta Seviyede: 80 (%32.5)
+    - Standartlar hakkında bilgim yok: 48 (%19.5)
+    - İleri seviyede: 20 (%8.1)
+  - Eksik Değer: 0
+
+* 27. Standartlar konusunda bir eğitime ihtiyacınız olduğunu düşünüyor musunuz?:
+  - Benzersiz değer sayısı: 10
+  - En sık 5 değer:
+    - EVET: 192 (%78.0)
+    - HAYIR: 45 (%18.3)
+    - Belki: 2 (%0.8)
+    - Her zaman eğitim ve güncelleme gereklidir: 1 (%0.4)
+    - Emin değilim : 1 (%0.4)
+  - Eksik Değer: 0
+
+* 28. Uluslararası yazılım kalite standartlarının Türkiye bilişim sektöründeki yeri ile ilgili ek görüşleriniz varsa lütfen belirtiniz. :
+  - Benzersiz değer sayısı: 36
+  - En sık 5 değer:
+    - Basma kalıp standartlardan çok temel yazılım pratiklerini referans alan yazılım geliştirme pratikleri özendirilmeli. Her şirketin kendi dinamikleri olduğu unutulmamalı. Bir ev tasarlarken, bir kıyafet dikerken nasıl sahibinin istedikleri, o istekleri hayata geçirme süreci  ve ortaya çıkan ürün biricik ise yazılımda da yazılı kurallardan çok temel pratikler ve o pratiklerin üzerine oturtulacak kurum alışkanlıkları daha önemlidir.: 1 (%0.4)
+    - Cinsiyet kısmına diğer seçeneğini bulundurmanızı kınıyorum. İnsan Erkek veya kadındır: 1 (%0.4)
+    - Güvenli Yazılım Geliştirme Yaşam Döngüsü seçildiğinde süreç eşzamanda kaliteyi içermektedir.Tüm dünyada artık SSDLC ve CI/CD kullanılmakta ve bu yöntemle kalitede kendiliğinden uluslararası standartlarda oluşşmaktadır. Örneğin SAST yönteminde yapılan bir analiz ile OPENSAMM,BSIMM,MISRA,HIPAA,PCI DSS, SANS 25,OWASP standartlarında raporlama almak mümkündür. Ülkemizde öncelikli olarak Siber Güvenlik risklerinin çok artmış olması sebebiyle SSDLC yöntemi yaygınlaştırılmalı ve üniversitelerde ders olarak okutulmalıdır. Bu konuda destek olmaya hazırım.: 1 (%0.4)
+    - Yazılım standartları ile ilgili bilginin yaygınlaştırılması gerekiyor. İhale ön koşullarına eklenmesi önerilebilir.: 1 (%0.4)
+    - Türkiye'de yazılım sektöründe standart ve kalite farkındalığının oluşmadığını düşünüyorum. Bunun yanında standartların çoğu batı kültürü ve çalışma biçimlerine göre belirlenmiş. Pek çok standardın bizim iş yapış şeklimize göre sadeleştirilmesi güncellenmesi gerekiyor bence. Bu konuda hiç bir çalışma yok.  Standartları birebir uygulamaya çalıştığınzda pek çok yerde iş yapış şeklinizle ilgili çelişkiler doğabiliyor. : 1 (%0.4)
+  - Eksik Değer: 210
+
+
+=== BOOLEAN SÜTUNLAR ===
+
+
+=== ÇOKLU SEÇİM SÜTUNLARI ===
+
+* 14. Kurumunuzun sahip olduğu kalite sertifikalarını işaretleyiniz. (Birden fazla seçeneği işaretleyebilirsiniz)
+
+* 16. Aşağıdaki test yöntemlerinden hangileri kurumunuzda düzenli olarak uygulanmaktadır?(Birden fazla seçeneği işaretleyebilirsiniz)
+
+* 17. Yazılım geliştirme yaşam döngüsünün hangi alanları için bir otomasyon aracı kullanmaktasınız? Örneğin Jira, Ms Project, Git, Teamwork...(Birden fazla seçeneği işaretleyebilirsiniz)
+
+* 19. Aşağıdaki yazılım kalite standartlarından bilgi sahibi olduklarınızı işaretleyiniz.(Birden fazla seçeneği işaretleyebilirsiniz)
+
+* 24. Süreçleri iyileştirmek için uluslararası kalite standartlarına başvurmama sebepleriniz nelerdir?(Birden fazla seçeneği işaretleyebilirsiniz)
+
+
+=== SÜTUN TİP ÖZET TABLOSU ===
+
+                                                                                                                                                                                                                         Sütun    Tip  Benzersiz Değer  Eksik Değer
+                                                                                                                                                                                                                 Zaman damgası object              246            0
+                                                                                                                                                                                                                        1. Yaş  int64               37            0
+                                                                                                                                                                                                                   2. Cinsiyet object                3            0
+                                                                                                                                                                                                             3. Öğrenim Durumu object                6            0
+                                                                                                                                                                                                          4. Yaşadığınız Şehir object               45            0
+                                                                                                                                                                                                  5. Toplam iş tecrübeniz(yıl) object               33            0
+                                                                                                                                                                                      6. Çalıştığınız kurumdaki çalışan sayısı object                9            0
+                                                                                                                                                                                                        7. Çalıştığınız sektör object               15            0
+                                                                                                                                                                                       8. Yazılım yaşam döngüsündeki göreviniz object               14            0
+                                                                                                               9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Gereksinimlerin tam/doğru dokümante edilmemesi] object                8            0
+                                                                                                                           9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Kabul kriterlerinin belirlenmemesi] object                9            0
+                                                                                                                           9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Son kullanıcıyı yeterince tanımama] object               10            0
+                                                                                                                           9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Mimari tasarımın doğru yapılmaması] object               10            0
+                                                             9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Prototip tasarlayarak müşteriden/ürün yöneticisinden geri bildirim alma pratiğinin uygulanmaması] object                9            0
+                                                                      9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Geliştirilecek yazılım için efor kestiriminin(süre) üst yönetim tarafından belirlenmesi] object                9            0
+                                                                                                                             9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Proje planının doğru yapılmaması] object                8            0
+                                                                             9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Değişiklik isteklerinin kontrol altına alınmaması, proje planına yansıltılmaması] object                8            0
+                                                                                                                                      9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Risklerin yönetilmemesi] object               10            0
+                                                                                                                      9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Yazılım ölçüm yönteminin belirlenmemesi] object                9            0
+                                                                                                            9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Yazılım ekibinin teknik yetkinliğe sahip olmaması] object                9            0
+                                                                                                                               9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Ekip içinde iletişim eksikliği] object                9            0
+                                                                                                                            9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Ekip içi rollerin belirsiz olması] object                8            0
+                                                                                                                                9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Kodların gözden geçirilmemesi] object                9            0
+                                                                                                                                     9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Hataların yönetilememesi] object                9            0
+                                                                                                                             9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Versiyon kontrolünün yapılmaması] object               10            0
+                                                                                                                                 9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Test planlarının yapılmaması] object                9            0
+                                                                                               9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [müşteri/ürün yöneticisi ile ekip arasındaki iletişim eksikliği] object                8            0
+                                                                                                               9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Kurulum/canlıya alma sürecinin yazılı olmaması] object                8            0
+                                                                                                                          9. Yazılım yaşam döngüsünde karşılaştığınız sorunlar nelerdir? [Bilgi paylaşımının yeterli olmaması] object                9            0
+                                                                                                                                                               10. Çalıştığınız kurum yurt dışına yazılım ihracatı yapıyor mu? object                6            0
+                                                                                                                                                11. Projelerinizde hangi yazılım yaşam döngüsü metodolojisini kullanıyorsunuz? object               13            0
+                                                                                                                                                                    12. Çalıştığınız kurumda bir Yazılım Kalite Birimi var mı? object                3            0
+                                                                                                                                                           13. Çalıştığınız kurumda aşağıdaki ölçümlerden hangileri yapılıyor? object              125            0
+                                                                                                               14. Kurumunuzun sahip olduğu kalite sertifikalarını işaretleyiniz. (Birden fazla seçeneği işaretleyebilirsiniz) object               55            0
+                                                                                               15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Karar Alma Süreci] object                5            0
+                                                                                        15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [İletişim Yönetimi Süreci] object                5            0
+                                                                                           15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Bilgi Yönetimi Süreci] object                5            0
+                                                                                       15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Gereksinim Analizi Süreci] object                5            0
+                                                                                           15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Mimari Tasarım Süreci] object                5            0
+                                                                                           15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Proje Planlama Süreci] object                5            0
+                                                                                               15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Geliştirme Süreci] object                5            0
+                                                                           15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Proje Değerlendirme ve Kontrol Süreci] object                5            0
+                                                                                   15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Konfigürasyon Yönetimi Süreci] object                5            0
+                                                                                                    15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Ölçüm Süreci] object                5            0
+                                                                                                     15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Test Süreci] object                5            0
+                                                                                              15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Entegrasyon Süreci] object                5            0
+                                                                                                  15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Kurulum Süreci] object                5            0
+                                                                                                    15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Bakım Süreci] object                5            0
+                                                                                          15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Kalite Yönetimi Süreci] object                5            0
+                                                                                   15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [İnsan Kaynağı Yönetimi Süreci] object                5            0
+                                                                            15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Yaşam Döngüsü Modeli Yönetimi Süreci] object                5            0
+                                                                                         15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Altyapı Yönetimi Süreci] object                5            0
+                                                                                            15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Risk Yönetimi Süreci] object                5            0
+                                                                                         15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Portföy Yönetimi Süreci] object                5            0
+                                                                                          15. Çalıştığınız kurumda aşağıdaki süreçlerden hangilerinin ADIMLARI, AKTİVİTELERİ ve KURALLARI tanımlıdır? [Yazılım Tasfiye Süreci] object                5            0
+                                                                                           16. Aşağıdaki test yöntemlerinden hangileri kurumunuzda düzenli olarak uygulanmaktadır?(Birden fazla seçeneği işaretleyebilirsiniz) object              136            0
+                                      17. Yazılım geliştirme yaşam döngüsünün hangi alanları için bir otomasyon aracı kullanmaktasınız? Örneğin Jira, Ms Project, Git, Teamwork...(Birden fazla seçeneği işaretleyebilirsiniz) object               55            3
+                                                                                  18. Çalıştığınız kurumda işe alımdan sonra, kişilere kurumsal yazılım yaşam döngüsü süreçleri hakkında bir eğitim/oryantasyon sağlanıyor mu? object                5            0
+                                                                                           19. Aşağıdaki yazılım kalite standartlarından bilgi sahibi olduklarınızı işaretleyiniz.(Birden fazla seçeneği işaretleyebilirsiniz) object               73            0
+                                                                                                                                                              20. Yazılım kalite standartları konusunda hiç eğitim aldınız mı? object               10            1
+                                   21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kurumun bilgi birikimini kayıtlı hale getirir.] object                5            0
+            21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Şirkette doğru ve ortak bir terminoloji kullanılmasına yardımcı olur.] object                5            0
+                                          21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kurum pratiklerini zamanla iyileştirir.] object                5            0
+                     21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Ekip üyelerinin iş tanımlarını daha iyi anlamalarını sağlar.] object                5            0
+                                               21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kurum içi iletişimi kolaylaştırır.] object                5            0
+                 21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Projeye sonradan katılanların projeyi öğrenme süresini kısaltır.] object                5            0
+21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Gereksinimlerin hem müşteri hem de yazılım ekibi tarafından onaylanmasını sağlar.] object                5            0
+                                                        21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Planlamayı kolaylaştırır.] object                5            0
+                                          21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kodlarda değişiklik ihtiyacını azaltır.] object                5            0
+                             21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Projenin zamanında tamamlanmasında etkili rol oynar.] object                5            0
+                21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kullanıcı dostu yazılım geliştirme için gerekli altyapıyı sağlar.] object                5            0
+                                                           21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Hata sayısını azaltır.] object                5            0
+                                           21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Yazılımların bakım maliyetini azaltır.] object                5            0
+                                                21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Kullanıcı memnuniyetini arttırır.] object                5            0
+                                                21. Bir yazılım şirketinde, iş süreçlerinin uluslararası kalite standartlarına uygun olarak yönetilmesi şirkette ne gibi etkiler yaratır?  [Şirketin rekabet gücünü arttırır.] object                5            0
+                                                         22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Standartlar hakkında yetkin insan kaynağının yeterli sayıda olmaması] object                5            0
+                                                                     22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Sektörde standartlarla ilgili farkındalığın düşük olması] object                5            0
+                                                                       22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Kalite standartlarını uygulamak için bütçe ayrılmaması] object                5            0
+                                                                         22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Üst yönetimin kalite aktivitelerine destek vermemesi] object                5            0
+                                                                     22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Şirket kültürünün standartları uygulamaya hazır olmaması] object                5            0
+                                                22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Kalite standartlarının şirkete faydalı olacağına dair bir inanca sahip olmama] object                5            0
+                                                                             22. Uluslararası kalite standartlarının bir kurumda uygulanmamasının nedenleri sizce nelerdir? [Standartların proje süresini uzatacağı düşüncesi] object                5            0
+                                  23. Bireysel olarak iş süreçlerinizi iyileştirmek veya projelerinizdeki aksaklıklara çözüm yolları bulmak için uluslararası standartlara başvuruyor musunuz? Örneğin, ISO/IEC, IEEE, CMMI... object                7            0
+                                                                              24. Süreçleri iyileştirmek için uluslararası kalite standartlarına başvurmama sebepleriniz nelerdir?(Birden fazla seçeneği işaretleyebilirsiniz) object               89           24
+                                                                                                 25. Türkiye'de yazılım sektöründe, yazılım kalite standartları hakkında yeterli bilgi birikiminin olduğunu düşünüyor musunuz? object                6            0
+                                                                                                                                   26. Yazılım kalite standartları konusundaki yetkinlik seviyeniz aşağıdakilerden hangisidir? object                4            0
+                                                                                                                                                 27. Standartlar konusunda bir eğitime ihtiyacınız olduğunu düşünüyor musunuz? object               10            0
+                                                                                        28. Uluslararası yazılım kalite standartlarının Türkiye bilişim sektöründeki yeri ile ilgili ek görüşleriniz varsa lütfen belirtiniz.  object               36          210
+
+=== VERİ KALİTESİ ÖZETİ ===
+Toplam Satır Sayısı: 246
+Toplam Eksik Değer: 238 (%1.1)

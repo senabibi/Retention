@@ -1,0 +1,449 @@
+Prompt 1
+Needle: A total of 246 people participated in the survey.
+Step 1: The percentage of male participants is 80.5%, while the percentage of female participants is 19.1%.
+Step 2: 51.2% of the participants work in the IT sector.
+Step 3: The average age of the participants is 33.32.
+Step 4: 43.5% of the participants have experienced the problem of "requirements not being fully/correctly documented."
+Step 5: 64.2% of the participants have a bachelor's degree.
+Question: What was the total number of participants mentioned at the beginning?
+
+Prompt 2
+Needle: 19.1% of the participants are female.
+Step 1: The most common sector is IT, with 51.2%.
+Step 2: The average age of the participants is 33.32.
+Step 3: 38.6% of the participants live in Ankara.
+Step 4: 58.9% of the participants use the Agile methodology.
+Step 5: 42.3% of the participants' companies have a Software Quality Department.
+Question: What was the percentage of female participants mentioned at the beginning?
+
+Prompt 3
+Needle: The most common sector is IT, with 51.2%.
+Step 1: 43.5% of the participants stated that "requirements not being fully/correctly documented" is the problem they experience most often.
+Step 2: 64.2% of the participants have a bachelor's degree.
+Step 3: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 4: 38.2% of the participants have 1-5 years of work experience.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What is the most common sector and its corresponding percentage of participants?
+
+Prompt 4
+Needle: 64.2% of the participants have a bachelor's degree.
+Step 1: 26.8% of the participants have a master's degree.
+Step 2: 38.6% of the participants live in Ankara.
+Step 3: 58.9% of the participants use the Agile methodology.
+Step 4: 42.3% of the participants' companies have a Software Quality Department.
+Step 5: 39.0% of the participants have not received software quality standards training before.
+Question: What was the percentage of bachelor's degree graduates mentioned at the beginning?
+
+Prompt 5
+Needle: The most common problem is "requirements not being fully/correctly documented," with 43.5%.
+Step 1: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 2: 38.2% of the participants have 1-5 years of work experience.
+Step 3: 30.1% of the participants stated that their company has a documented integration process.
+Step 4: 39.0% of the participants have not received software quality standards training before.
+Step 5: 57.7% of the participants' companies export software abroad.
+Question: What was the most common problem and its percentage?
+
+Prompt 6
+Needle: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 1: 38.6% of the participants live in Ankara, and 19.1% live in Istanbul.
+Step 2: 45.1% of the participants receive post-hiring orientation training.
+Step 3: The average age of the participants is 33.32.
+Step 4: 24.4% of the participants work in companies with more than 1000 employees.
+Step 5: 13.8% of the participants are in the position of Team Leader/Group Leader.
+Question: What is the percentage of participants in the Software Engineer/Specialist position?
+
+Prompt 7
+Needle: A total of 246 people participated in the survey.
+Step 1: 58.9% of the participants use the Agile methodology.
+Step 2: 9.8% of the participants use the Waterfall methodology.
+Step 3: 33.3% of the participants' companies have a documented testing process.
+Step 4: 11.8% of the participants' companies have a documented risk management process.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What was the total number of survey participants mentioned at the beginning?
+
+Prompt 8
+Needle: 19.1% of the participants are female.
+Step 1: 51.2% of the participants work in the IT sector.
+Step 2: 34.6% of the participants have experienced the problem of "acceptance criteria not being defined."
+Step 3: 18.7% of the participants stated that they constantly experience the problem of "change requests not being controlled."
+Step 4: 37.0% of the participants "Strongly Agree" that quality standards facilitate communication.
+Step 5: 30.5% of the participants' companies have an undocumented information management process.
+Question: What is the percentage of female participants?
+
+Prompt 9
+Needle: The most common sector is IT, with 51.2%.
+Step 1: 36.2% of the participants stated that their company has a documented project planning process.
+Step 2: 31.3% of the participants stated that they have never experienced the problem of "lack of version control."
+Step 3: 45.1% of the participants receive post-hiring orientation training.
+Step 4: 39.0% of the participants have not received software quality standards training before.
+Step 5: 11.8% of the participants' companies have a documented risk management process.
+Question: What is the most popular sector and its percentage?
+
+Prompt 10
+Needle: 64.2% of the participants have a bachelor's degree.
+Step 1: 26.8% of the participants have a master's degree.
+Step 2: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 3: 38.2% of the participants have 1-5 years of work experience.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What was the percentage of bachelor's degree graduates mentioned?
+
+Prompt 11
+Needle: The most common problem is "requirements not being fully/correctly documented," with 43.5%.
+Step 1: The average age of the participants is 33.32.
+Step 2: 24.4% of the participants work in companies with more than 1000 employees.
+Step 3: 42.3% of the participants' companies have a Software Quality Department.
+Step 4: 10.6% have 1 year of experience, and 8.1% have 2 years of experience.
+Step 5: 13.8% of the participants are in the position of Team Leader/Group Leader.
+Question: What was the most common problem and its percentage?
+
+Prompt 12
+Needle: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 1: 38.6% of the participants live in Ankara, 19.1% in Istanbul, and 7.3% in Izmir.
+Step 2: 13.8% of the participants are in the position of Team Leader/Group Leader, and 8.9% are in the position of Director/Senior Management.
+Step 3: 24.4% of the participants work in companies with more than 1000 employees.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 42.3% of the participants' companies have a Software Quality Department.
+Question: What is the percentage of participants in the Software Engineer/Specialist position?
+
+Prompt 13
+Needle: A total of 246 people participated in the survey.
+Step 1: 58.9% of the participants use the Agile methodology.
+Step 2: 9.8% of the participants use the Waterfall methodology.
+Step 3: 33.3% of the participants' companies have a documented testing process.
+Step 4: 11.8% of the participants' companies have a documented risk management process.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What was the total number of survey participants from the beginning?
+
+Prompt 14
+Needle: 19.1% of the participants are female.
+Step 1: 51.2% of the participants work in the IT sector.
+Step 2: 42.3% of the participants' companies have a Software Quality Department.
+Step 3: 39.0% of the participants have not received software quality standards training before.
+Step 4: 45.1% of the participants receive post-hiring orientation training.
+Step 5: 37.0% of the participants "Strongly Agree" that quality standards facilitate communication.
+Question: What was the percentage of female survey participants?
+
+Prompt 15
+Needle: The most common sector is IT, with 51.2%.
+Step 1: 38.6% of the participants live in Ankara, and 19.1% live in Istanbul.
+Step 2: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 3: 38.2% of the participants have 1-5 years of work experience.
+Step 4: 24.4% of the participants work in companies with more than 1000 employees.
+Step 5: 57.7% of the participants' companies export software abroad.
+Question: What is the most popular sector and its percentage?
+
+Prompt 16
+Needle: 64.2% of the participants have a bachelor's degree.
+Step 1: 26.8% of the participants have a master's degree.
+Step 2: The average age of the participants is 33.32.
+Step 3: 10.6% of the participants work in the finance sector.
+Step 4: 30.1% of the participants stated that their company has a documented integration process.
+Step 5: 16.7% of the participants stated that they have never experienced the problem of "lack of team communication."
+Question: What was the percentage of participants with a bachelor's degree?
+
+Prompt 17
+Needle: The most common problem is "requirements not being fully/correctly documented," with 43.5%.
+Step 1: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 2: 38.2% of the participants have 1-5 years of work experience.
+Step 3: 30.1% of the participants stated that their company has a documented integration process.
+Step 4: 39.0% of the participants have not received software quality standards training before.
+Step 5: 57.7% of the participants' companies export software abroad.
+Question: What was the most common problem and its percentage?
+
+Prompt 18
+Needle: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 1: 38.6% of the participants live in Ankara, 19.1% in Istanbul, and 7.3% in Izmir.
+Step 2: 13.8% of the participants are in the position of Team Leader/Group Leader.
+Step 3: 8.9% of the participants are in the position of Director/Senior Management.
+Step 4: 24.4% of the participants work in companies with more than 1000 employees.
+Step 5: 57.7% of the participants' companies export software abroad.
+Question: What is the percentage of participants in the Software Engineer/Specialist position?
+
+Prompt 19
+Needle: A total of 246 people participated in the survey.
+Step 1: 58.9% of the participants use the Agile methodology, and 9.8% use the Waterfall methodology.
+Step 2: 33.3% of the participants' companies have a documented testing process.
+Step 3: 11.8% of the participants' companies have a documented risk management process.
+Step 4: 30.1% of the participants stated that their company has a documented integration process.
+Step 5: 42.3% of the participants' companies have a Software Quality Department.
+Question: What is the total number of survey participants?
+
+Prompt 20
+Needle: 19.1% of the participants are female.
+Step 1: 51.2% of the participants work in the IT sector.
+Step 2: 42.3% of the participants' companies have a Software Quality Department.
+Step 3: 39.0% of the participants have not received software quality standards training before.
+Step 4: 45.1% of the participants receive post-hiring orientation training.
+Step 5: 37.0% of the participants "Strongly Agree" that quality standards facilitate communication.
+Question: What was the percentage of female participants mentioned at the beginning?
+
+Prompt 21
+Needle: The most common sector is IT, with 51.2%.
+Step 1: 36.2% of the participants stated that their company has a documented project planning process.
+Step 2: 31.3% of the participants stated that they have never experienced the problem of "lack of version control."
+Step 3: 45.1% of the participants receive post-hiring orientation training.
+Step 4: 39.0% of the participants have not received software quality standards training before.
+Step 5: 11.8% of the participants' companies have a documented risk management process.
+Question: What is the percentage of the most common sector?
+
+Prompt 22
+Needle: 64.2% of the participants have a bachelor's degree.
+Step 1: 26.8% of the participants have a master's degree.
+Step 2: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 3: 38.2% of the participants have 1-5 years of work experience.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What is the percentage of participants with a bachelor's degree?
+
+Prompt 23
+Needle: The most common problem is "requirements not being fully/correctly documented," with 43.5%.
+Step 1: The average age of the participants is 33.32.
+Step 2: 24.4% of the participants work in companies with more than 1000 employees.
+Step 3: 42.3% of the participants' companies have a Software Quality Department.
+Step 4: 10.6% have 1 year of experience, and 8.1% have 2 years of experience.
+Step 5: 16.7% stated that they have never experienced the problem of "lack of team communication."
+Question: What was the most common problem and its percentage?
+
+Prompt 24
+Needle: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 1: 38.6% of the participants live in Ankara, 19.1% in Istanbul, and 7.3% in Izmir.
+Step 2: 13.8% of the participants are in the position of Team Leader/Group Leader, and 8.9% are in the position of Director/Senior Management.
+Step 3: 24.4% of the participants work in companies with more than 1000 employees.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 42.3% of the participants' companies have a Software Quality Department.
+Question: What is the percentage of participants in the Software Engineer/Specialist position?
+
+Prompt 25
+Needle: A total of 246 people participated in the survey.
+Step 1: 58.9% of the participants use the Agile methodology.
+Step 2: 9.8% of the participants use the Waterfall methodology.
+Step 3: 33.3% of the participants' companies have a documented testing process.
+Step 4: 11.8% of the participants' companies have a documented risk management process.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What is the total number of survey participants?
+
+Prompt 26
+Needle: 19.1% of the participants are female.
+Step 1: 51.2% of the participants work in the IT sector.
+Step 2: 42.3% of the participants' companies have a Software Quality Department.
+Step 3: 39.0% of the participants have not received software quality standards training before.
+Step 4: 45.1% of the participants receive post-hiring orientation training.
+Step 5: 37.0% of the participants "Strongly Agree" that quality standards facilitate communication.
+Question: What is the percentage of female participants?
+
+Prompt 27
+Needle: The most common sector is IT, with 51.2%.
+Step 1: 36.2% of the participants stated that their company has a documented project planning process.
+Step 2: 31.3% of the participants stated that they have never experienced the problem of "lack of version control."
+Step 3: 45.1% of the participants receive post-hiring orientation training.
+Step 4: 39.0% of the participants have not received software quality standards training before.
+Step 5: 11.8% of the participants' companies have a documented risk management process.
+Question: What is the percentage of the most common sector?
+
+Prompt 28
+Needle: 64.2% of the participants have a bachelor's degree.
+Step 1: 26.8% of the participants have a master's degree.
+Step 2: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 3: 38.2% of the participants have 1-5 years of work experience.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What is the percentage of participants with a bachelor's degree mentioned at the beginning?
+
+Prompt 29
+Needle: The most common problem is "requirements not being fully/correctly documented," with 43.5%.
+Step 1: The average age of the participants is 33.32.
+Step 2: 24.4% of the participants work in companies with more than 1000 employees.
+Step 3: 42.3% of the participants' companies have a Software Quality Department.
+Step 4: 10.6% have 1 year of experience, and 8.1% have 2 years of experience.
+Step 5: 16.7% stated that they have never experienced the problem of "lack of team communication."
+Question: What was the most common problem and its percentage?
+
+Prompt 30
+Needle: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 1: 38.6% of the participants live in Ankara, 19.1% in Istanbul, and 7.3% in Izmir.
+Step 2: 13.8% of the participants are in the position of Team Leader/Group Leader, and 8.9% are in the position of Director/Senior Management.
+Step 3: 24.4% of the participants work in companies with more than 1000 employees.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 42.3% of the participants' companies have a Software Quality Department.
+Question: What is the percentage of participants in the Software Engineer/Specialist position?
+
+Prompt 31
+Needle: A total of 246 people participated in the survey.
+Step 1: 58.9% of the participants use the Agile methodology.
+Step 2: 9.8% of the participants use the Waterfall methodology.
+Step 3: 33.3% of the participants' companies have a documented testing process.
+Step 4: 11.8% of the participants' companies have a documented risk management process.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What is the total number of survey participants?
+
+Prompt 32
+Needle: 19.1% of the participants are female.
+Step 1: 51.2% of the participants work in the IT sector.
+Step 2: 42.3% of the participants' companies have a Software Quality Department.
+Step 3: 39.0% of the participants have not received software quality standards training before.
+Step 4: 45.1% of the participants receive post-hiring orientation training.
+Step 5: 37.0% of the participants "Strongly Agree" that quality standards facilitate communication.
+Question: What is the percentage of female participants?
+
+Prompt 33
+Needle: The most common sector is IT, with 51.2%.
+Step 1: 36.2% of the participants stated that their company has a documented project planning process.
+Step 2: 31.3% of the participants stated that they have never experienced the problem of "lack of version control."
+Step 3: 45.1% of the participants receive post-hiring orientation training.
+Step 4: 39.0% of the participants have not received software quality standards training before.
+Step 5: 11.8% of the participants' companies have a documented risk management process.
+Question: What is the percentage of the most common sector?
+
+Prompt 34
+Needle: 64.2% of the participants have a bachelor's degree.
+Step 1: 26.8% of the participants have a master's degree.
+Step 2: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 3: 38.2% of the participants have 1-5 years of work experience.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What is the percentage of participants with a bachelor's degree?
+
+Prompt 35
+Needle: The most common problem is "requirements not being fully/correctly documented," with 43.5%.
+Step 1: The average age of the participants is 33.32.
+Step 2: 24.4% of the participants work in companies with more than 1000 employees.
+Step 3: 42.3% of the participants' companies have a Software Quality Department.
+Step 4: 10.6% have 1 year of experience, and 8.1% have 2 years of experience.
+Step 5: 16.7% stated that they have never experienced the problem of "lack of team communication."
+Question: What was the most common problem and its percentage?
+
+Prompt 36
+Needle: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 1: 38.6% of the participants live in Ankara, 19.1% in Istanbul, and 7.3% in Izmir.
+Step 2: 13.8% of the participants are in the position of Team Leader/Group Leader, and 8.9% are in the position of Director/Senior Management.
+Step 3: 24.4% of the participants work in companies with more than 1000 employees.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 42.3% of the participants' companies have a Software Quality Department.
+Question: What is the percentage of participants in the Software Engineer/Specialist position?
+
+Prompt 37
+Needle: A total of 246 people participated in the survey.
+Step 1: 58.9% of the participants use the Agile methodology.
+Step 2: 9.8% of the participants use the Waterfall methodology.
+Step 3: 33.3% of the participants' companies have a documented testing process.
+Step 4: 11.8% of the participants' companies have a documented risk management process.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What is the total number of survey participants?
+
+Prompt 38
+Needle: 19.1% of the participants are female.
+Step 1: 51.2% of the participants work in the IT sector.
+Step 2: 42.3% of the participants' companies have a Software Quality Department.
+Step 3: 39.0% of the participants have not received software quality standards training before.
+Step 4: 45.1% of the participants receive post-hiring orientation training.
+Step 5: 37.0% of the participants "Strongly Agree" that quality standards facilitate communication.
+Question: What is the percentage of female participants?
+
+Prompt 39
+Needle: The most common sector is IT, with 51.2%.
+Step 1: 36.2% of the participants stated that their company has a documented project planning process.
+Step 2: 31.3% of the participants stated that they have never experienced the problem of "lack of version control."
+Step 3: 45.1% of the participants receive post-hiring orientation training.
+Step 4: 39.0% of the participants have not received software quality standards training before.
+Step 5: 11.8% of the participants' companies have a documented risk management process.
+Question: What is the percentage of the most common sector?
+
+Prompt 40
+Needle: 64.2% of the participants have a bachelor's degree.
+Step 1: 26.8% of the participants have a master's degree.
+Step 2: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 3: 38.2% of the participants have 1-5 years of work experience.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What is the percentage of participants with a bachelor's degree?
+
+Prompt 41
+Needle: The most common problem is "requirements not being fully/correctly documented," with 43.5%.
+Step 1: The average age of the participants is 33.32.
+Step 2: 24.4% of the participants work in companies with more than 1000 employees.
+Step 3: 42.3% of the participants' companies have a Software Quality Department.
+Step 4: 10.6% have 1 year of experience, and 8.1% have 2 years of experience.
+Step 5: 16.7% stated that they have never experienced the problem of "lack of team communication."
+Question: What was the most common problem and its percentage?
+
+Prompt 42
+Needle: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 1: 38.6% of the participants live in Ankara, 19.1% in Istanbul, and 7.3% in Izmir.
+Step 2: 13.8% of the participants are in the position of Team Leader/Group Leader, and 8.9% are in the position of Director/Senior Management.
+Step 3: 24.4% of the participants work in companies with more than 1000 employees.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 42.3% of the participants' companies have a Software Quality Department.
+Question: What is the percentage of participants in the Software Engineer/Specialist position?
+
+Prompt 43
+Needle: A total of 246 people participated in the survey.
+Step 1: 58.9% of the participants use the Agile methodology.
+Step 2: 9.8% of the participants use the Waterfall methodology.
+Step 3: 33.3% of the participants' companies have a documented testing process.
+Step 4: 11.8% of the participants' companies have a documented risk management process.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What is the total number of survey participants?
+
+Prompt 44
+Needle: 19.1% of the participants are female.
+Step 1: 51.2% of the participants work in the IT sector.
+Step 2: 42.3% of the participants' companies have a Software Quality Department.
+Step 3: 39.0% of the participants have not received software quality standards training before.
+Step 4: 45.1% of the participants receive post-hiring orientation training.
+Step 5: 37.0% of the participants "Strongly Agree" that quality standards facilitate communication.
+Question: What is the percentage of female participants?
+
+Prompt 45
+Needle: The most common sector is IT, with 51.2%.
+Step 1: 36.2% of the participants stated that their company has a documented project planning process.
+Step 2: 31.3% of the participants stated that they have never experienced the problem of "lack of version control."
+Step 3: 45.1% of the participants receive post-hiring orientation training.
+Step 4: 39.0% of the participants have not received software quality standards training before.
+Step 5: 11.8% of the participants' companies have a documented risk management process.
+Question: What is the percentage of the most common sector?
+
+Prompt 46
+Needle: 64.2% of the participants have a bachelor's degree.
+Step 1: 26.8% of the participants have a master's degree.
+Step 2: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 3: 38.2% of the participants have 1-5 years of work experience.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What is the percentage of participants with a bachelor's degree?
+
+Prompt 47
+Needle: The most common problem is "requirements not being fully/correctly documented," with 43.5%.
+Step 1: The average age of the participants is 33.32.
+Step 2: 24.4% of the participants work in companies with more than 1000 employees.
+Step 3: 42.3% of the participants' companies have a Software Quality Department.
+Step 4: 10.6% have 1 year of experience, and 8.1% have 2 years of experience.
+Step 5: 16.7% stated that they have never experienced the problem of "lack of team communication."
+Question: What was the most common problem and its percentage?
+
+Prompt 48
+Needle: 49.6% of the participants are in the position of Software Engineer/Specialist.
+Step 1: 38.6% of the participants live in Ankara, 19.1% in Istanbul, and 7.3% in Izmir.
+Step 2: 13.8% of the participants are in the position of Team Leader/Group Leader, and 8.9% are in the position of Director/Senior Management.
+Step 3: 24.4% of the participants work in companies with more than 1000 employees.
+Step 4: 57.7% of the participants' companies export software abroad.
+Step 5: 42.3% of the participants' companies have a Software Quality Department.
+Question: What is the percentage of participants in the Software Engineer/Specialist position?
+
+Prompt 49
+Needle: A total of 246 people participated in the survey.
+Step 1: 58.9% of the participants use the Agile methodology.
+Step 2: 9.8% of the participants use the Waterfall methodology.
+Step 3: 33.3% of the participants' companies have a documented testing process.
+Step 4: 11.8% of the participants' companies have a documented risk management process.
+Step 5: 30.1% of the participants stated that their company has a documented integration process.
+Question: What is the total number of survey participants?
+
+Prompt 50
+Needle: 19.1% of the participants are female.
+Step 1: 51.2% of the participants work in the IT sector.
+Step 2: 42.3% of the participants' companies have a Software Quality Department.
+Step 3: 39.0% of the participants have not received software quality standards training before.
+Step 4: 45.1% of the participants receive post-hiring orientation training.
+Step 5: 37.0% of the participants "Strongly Agree" that quality standards facilitate communication.
+Question: What is the percentage of female participants?

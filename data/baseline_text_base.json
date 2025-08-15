@@ -1,0 +1,252 @@
+{
+    "Prompt 1": {
+        "Input": "The dataset consists of 246 rows and includes various demographic and professional information. 19.1% of the total participants are female. The rate of Master's degree graduates is 26.8%. The most frequent sector is IT (51.2%), and the most common problem is \"Requirements not being fully/correctly documented\" (43.5%).  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the provided text, describe the characteristics of the most frequent sector and the most common problem identified in the dataset. "
+    },
+    "Prompt 2": {
+        "Input": "The dataset contains 246 participants. The average age is 33.32, with a median of 32.0. 38.6% of the participants reside in ANKARA, and 19.1% in ISTANBUL. The percentage of people working in the IT sector is 51.2%.   ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what are the average and median ages of the participants, and what are the two most common cities of residence? "
+    },
+    "Prompt 3": {
+        "Input": "The survey is based on data from 246 participants. The most frequent job position is Software Engineer/Specialist with 122 people (49.6%). 10.6% of the participants have 1 year of work experience. 57.7% of the companies export software abroad.   ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "State the most frequent job position and the percentage of participants who have one year of work experience, based on the provided text. "
+    },
+    "Prompt 4": {
+        "Input": "The survey presents data for 246 people. 24.4% of the participants work in companies with more than 1000 employees. The most widely used software development lifecycle methodology is Agile (58.9%). 48% of the companies do not have a Software Quality Unit.   ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what percentage of companies use the Agile methodology, and what percentage do not have a Software Quality Unit? "
+    },
+    "Prompt 5": {
+        "Input": "According to the analysis of the 246 rows in the dataset, 45.1% of the participants receive post-hiring orientation training. The percentage of those who have never received training on software quality standards is 39.0%. The percentage of those who believe quality standards facilitate internal communication is 37.0%.   ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What percentage of participants receive post-hiring orientation training, and what percentage has never received training on software quality standards? "
+    },
+    "Prompt 6": {
+        "Input": "Of the total 246 participants, 80.5% are male and 64.2% are Bachelor's graduates. 34.6% of the participants stated that they \"Frequently\" encounter the problem of \"Acceptance Criteria not being determined\". 30.5% stated that their company's \"Knowledge Management process\" is \"There's a process in name, but it's not documented\".   ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what is the percentage of male participants and the percentage of Bachelor's graduates? "
+    },
+    "Prompt 7": {
+        "Input": "49.6% of the 246 survey participants work in the position of Software Engineer/Specialist. 26.8% of this group hold a Master's degree. 31.3% of the participants stated that their testing process is \"a documented process exists\".  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what percentage of participants are Software Engineer/Specialists, and what percentage have a Master's degree? "
+    },
+    "Prompt 8": {
+        "Input": "The analysis of the 246-participant dataset shows that 10.6% have 1 year, 8.1% have 2 years, and 7.3% have 5 years of work experience. 42.3% of the participants stated that their companies have a Software Quality Unit.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What are the percentages of participants with 1, 2, and 5 years of work experience? "
+    },
+    "Prompt 9": {
+        "Input": "The survey contains data on the professional experiences and problems faced by 246 participants. 18.7% of the participants stated that they \"Always\" experience the problem of \"Change requests not being controlled\". 11.8% of the participants stated that their \"Risk management process\" is \"A well-functioning, documented process exists\".  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what percentage of participants always experience the problem of \"Change requests not being controlled,\" and what percentage have a well-functioning, documented risk management process? "
+    },
+    "Prompt 10": {
+        "Input": "In the 246-person dataset, 37.0% of the participants \"Definitely agree\" that quality standards facilitate internal communication. 45.1% of this group also receive post-hiring orientation training.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what percentage of participants definitely agree that quality standards facilitate internal communication, and what percentage of that group also receives post-hiring orientation training? "
+    },
+    "Prompt 11": {
+        "Input": "The dataset contains 246 people. 51.2% of them work in the IT sector. 48.0% of the participants' companies do not have a Software Quality Unit. The rate of those using the Agile methodology is 58.9%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what is the percentage of participants who work in the IT sector, and what is the percentage of companies that do not have a Software Quality Unit? "
+    },
+    "Prompt 12": {
+        "Input": "The survey includes demographic and professional characteristics of 246 participants. 64.2% of the participants have a Bachelor's degree, and 26.8% have a Master's degree. 16.3% of those who \"Frequently\" experience the problem of \"Code reviews not being done\" are Master's degree graduates.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "State the percentage of participants who have a Bachelor's degree and the percentage who have a Master's degree, according to the text. "
+    },
+    "Prompt 13": {
+        "Input": "The analysis of the 246-person dataset shows that 19.1% of the participants are female and 13.8% work in the position of Team Lead/Group Lead. 24.4% of the participants work in companies with more than 1000 employees.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What percentage of participants are female, and what percentage work in a company with more than 1000 employees? "
+    },
+    "Prompt 14": {
+        "Input": "The dataset includes 246 people. 34.6% of the participants stated that they work in companies without a Software Quality Unit. 16.7% do not receive post-hiring orientation training. One of the most frequently used testing methods is User Acceptance Testing (3.3%).  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What percentage of participants work in companies without a Software Quality Unit, and what is the percentage of participants who do not receive post-hiring orientation training? "
+    },
+    "Prompt 15": {
+        "Input": "The survey data shows that 57.7% of the participants' companies export software abroad. 38.6% of these participants live in Ankara. 33.3% of the participants stated that they \"Sometimes\" experience the problem of \"Risks not being managed\". ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what percentage of participants work for companies that export software abroad, and what percentage of those people live in Ankara? "
+    },
+    "Prompt 16": {
+        "Input": "Of the 246 people in the dataset, 49.6% work as Software Engineer/Specialists, while 13.8% are in the position of Team Lead/Group Lead. The rate of those who \"Frequently\" experience the problem of \"The project plan is not done correctly\" is 24.4%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what are the percentages of participants who are Software Engineer/Specialists and those who are Team Lead/Group Leads? "
+    },
+    "Prompt 17": {
+        "Input": "The survey data for 246 people shows that 26.8% have a Master's degree. The rate of those who state their company's \"Testing Process\" is \"A documented process exists\" is 33.3%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What percentage of participants have a Master's degree, and what percentage work for a company with a documented testing process? "
+    },
+    "Prompt 18": {
+        "Input": "Of the total 246 participants, 31.3% stated that they \"Sometimes\" experience the problem of \"Test plans not being made\". 24.4% of the participants work in companies with more than 1000 employees. The rate of those using the Agile methodology is 58.9%.   ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What percentage of participants work in companies with more than 1000 employees, and what percentage use the Agile methodology? "
+    },
+    "Prompt 19": {
+        "Input": "According to the survey data, 30.1% of the 246 participants stated that their \"Integration Process\" is \"A documented process exists\". 51.2% of these participants work in the IT sector. ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what percentage of participants have a documented integration process, and what percentage of that group works in the IT sector? "
+    },
+    "Prompt 20": {
+        "Input": "Of the total 246 participants, 80.5% are male. 38.6% of these males live in Ankara. 43.5% stated that they \"Frequently\" experience the problem of \"Requirements not being fully/correctly documented\".  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what percentage of participants are male, and what percentage of them live in Ankara? "
+    },
+    "Prompt 21": {
+        "Input": "The survey is based on data from 246 participants. The most frequent job position is Software Engineer/Specialist with 122 people (49.6%). 34.6% of the participants stated that they \"Frequently\" encounter the problem of \"Acceptance Criteria not being determined\". 57.7% of the companies export software abroad.   ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what is the most frequent job position, and what percentage of participants work for companies that export software abroad? "
+    },
+    "Prompt 22": {
+        "Input": "The dataset contains 246 participants. The average age is 33.32, with a median of 32.0. 42.3% of the participants stated that their companies have a Software Quality Unit, and 19.1% live in ISTANBUL. ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what are the average and median ages, and what percentage of participants live in Istanbul? "
+    },
+    "Prompt 23": {
+        "Input": "According to the survey data, 36.2% of the 246 participants stated that their \"Project Planning Process\" is \"A documented process exists\". 58.9% of these participants use the Agile methodology. The rate of male participants is 80.5%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What percentage of participants have a documented project planning process, and what is the percentage of male participants? "
+    },
+    "Prompt 24": {
+        "Input": "The dataset includes 246 people. 16.7% of the participants stated that they \"Never\" experience the problem of \"Lack of communication within the team\". 64.2% of these participants are Bachelor's graduates. The rate of those working in the IT sector is 51.2%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what percentage of participants are Bachelor's graduates, and what percentage work in the IT sector? "
+    },
+    "Prompt 25": {
+        "Input": "According to the 246-person dataset, 31.3% of the participants stated that they \"Never\" experience the problem of \"Version control not being done\". 45.1% of these participants receive post-hiring orientation training. ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What percentage of participants never experience the problem of \"Version control not being done,\" and what percentage of that group receives post-hiring orientation training? "
+    },
+    "Prompt 26": {
+        "Input": "The survey data shows that 37.0% of the 246 participants \"Sometimes\" experience the problem of \"Architectural design not being done correctly\". 48.0% of these participants' companies do not have a Software Quality Unit. ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what percentage of participants sometimes experience the problem of \"Architectural design not being done correctly,\" and what percentage of their companies do not have a Software Quality Unit? "
+    },
+    "Prompt 27": {
+        "Input": "The dataset includes 246 people. 24.4% of the participants work in companies with more than 1000 employees, and 16.7% work in companies with 11-50 employees. The rate of those using the Agile methodology in projects is 58.9%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what percentage of participants work in companies with more than 1000 employees, and what percentage work in companies with 11-50 employees? "
+    },
+    "Prompt 28": {
+        "Input": "The survey contains data on the professional experiences and problems faced by 246 participants. 18.7% of the participants stated that they \"Always\" experience the problem of \"Change requests not being controlled\". The rate of those working in the IT sector is 51.2%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what percentage of participants always experience the problem of \"Change requests not being controlled,\" and what percentage of participants work in the IT sector? "
+    },
+    "Prompt 29": {
+        "Input": "Of the total 246 participants, 49.6% work as a Software Engineer/Specialist, while 13.8% work as a Team Lead/Group Lead. 30.9% of the participants stated that they \"Sometimes\" experience the problem of \"The practice of getting feedback by designing a prototype is not applied\".  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What percentage of participants work as a Software Engineer/Specialist, and what percentage sometimes experience the problem of \"The practice of getting feedback by designing a prototype is not applied\"? "
+    },
+    "Prompt 30": {
+        "Input": "According to the survey data, 39.0% of the 246 participants have never received training on software quality standards. 48.0% of this group's companies do not have a Software Quality Unit. ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what percentage of participants have never received training on software quality standards, and what percentage of their companies do not have a Software Quality Unit? "
+    },
+    "Prompt 31": {
+        "Input": "Of the total 246 participants, 38.6% reside in ANKARA, and 19.1% reside in ISTANBUL. The most widely used software methodology is Agile (58.9%). ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What are the percentages of participants who reside in Ankara and Istanbul, according to the text? "
+    },
+    "Prompt 32": {
+        "Input": "The dataset contains 246 participants. The average age is 33.32, with a median of 32.0. The most common years of work experience are 1 year (10.6%), 2 years (8.1%), and 5 years (7.3%).  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what are the average and median ages of the participants? "
+    },
+    "Prompt 33": {
+        "Input": "The survey is based on data from 246 participants. The rate of those working in the IT sector is 51.2%. The rate of those whose company has a Software Quality Unit is 42.3%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what is the percentage of participants who work in the IT sector, and what is the percentage whose company has a Software Quality Unit? "
+    },
+    "Prompt 34": {
+        "Input": "In the 246-person dataset, 31.7% of the participants stated that they \"Rarely\" experience the problem of \"Lack of communication\". 48.0% of the companies do not have a Software Quality Unit. The most frequent job position is Software Engineer/Specialist with 122 people (49.6%).   ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "State the most frequent job position and the percentage of companies that do not have a Software Quality Unit. "
+    },
+    "Prompt 35": {
+        "Input": "The survey includes demographic and professional characteristics of 246 participants. 19.1% of the participants are female, and 80.5% are male. 57.7% stated that their companies export software abroad.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What is the gender distribution (male and female percentages), and what percentage of companies export software abroad? "
+    },
+    "Prompt 36": {
+        "Input": "Of the 246 people in the dataset, 45.1% receive post-hiring orientation training. 58.9% of these participants use the Agile methodology. ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what percentage of participants receive post-hiring orientation training, and what percentage of that group uses the Agile methodology? "
+    },
+    "Prompt 37": {
+        "Input": "The survey contains data on the professional experiences and problems faced by 246 participants. 31.3% of the participants stated that they \"Never\" experience the problem of \"Version control not being done\". 34.6% also stated that they \"Frequently\" experience the problem of \"Acceptance Criteria not being determined\".   ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what percentage of participants never experience the problem of \"Version control not being done,\" and what percentage frequently experience the problem of \"Acceptance Criteria not being determined\"? "
+    },
+    "Prompt 38": {
+        "Input": "The dataset includes 246 people. 10.6% of the participants have 1 year of work experience, and 8.1% have 2 years. The rate of those working in the IT sector is 51.2%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What are the percentages of participants with 1 and 2 years of work experience, and what percentage of participants work in the IT sector? "
+    },
+    "Prompt 39": {
+        "Input": "The survey includes demographic and professional characteristics of 246 participants. 49.6% of the participants are in the position of Software Engineer/Specialist, and 26.8% are Master's degree graduates. 57.7% of the companies export software abroad.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What is the percentage of participants who are Software Engineer/Specialists, and what percentage of companies export software abroad? "
+    },
+    "Prompt 40": {
+        "Input": "Of the total 246 participants, 37.0% stated that they \"Sometimes\" experience the problem of \"Architectural design not being done correctly,\" while 25.2% stated they \"Rarely\" experience it. The most widely used software methodology is Agile (58.9%). ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what is the percentage of participants who use the Agile methodology, and what is the percentage who \"Sometimes\" or \"Rarely\" experience the problem of \"Architectural design not being done correctly\"? "
+    },
+    "Prompt 41": {
+        "Input": "The dataset includes 246 people. 31.3% of the participants stated that they \"Sometimes\" experience the problem of \"Errors not being managed\". 48.0% of these people's companies do not have a Software Quality Unit. ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what percentage of participants sometimes experience the problem of \"Errors not being managed,\" and what percentage of their companies do not have a Software Quality Unit? "
+    },
+    "Prompt 42": {
+        "Input": "According to the survey data, 38.6% of the 246 participants live in ANKARA, and 7.3% live in IZMIR. The rate of those working in the IT sector is 51.2%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What are the percentages of participants who live in Ankara and Izmir, and what percentage work in the IT sector? "
+    },
+    "Prompt 43": {
+        "Input": "Of the total 246 participants, 49.6% are in the position of Software Engineer/Specialist, and 8.9% are in the position of Director/Senior Management. ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what percentage of participants are Software Engineer/Specialists, and what percentage are Director/Senior Management? "
+    },
+    "Prompt 44": {
+        "Input": "The survey contains data on the professional experiences and problems faced by 246 participants. 43.5% of the participants stated that they \"Frequently\" experience the problem of \"Requirements not being fully/correctly documented\". 64.2% of these participants are Bachelor's graduates.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What percentage of participants frequently experience the problem of \"Requirements not being fully/correctly documented,\" and what percentage of that group are Bachelor's graduates? "
+    },
+    "Prompt 45": {
+        "Input": "The dataset includes 246 people. 57.7% of the participants stated that they work in a company that exports software abroad, while 34.6% answered NO. The rate of those whose company has a Software Quality Unit is 42.3%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what percentage of participants work in companies that export software abroad, and what percentage of companies have a Software Quality Unit? "
+    },
+    "Prompt 46": {
+        "Input": "The survey is based on data from 246 participants. 31.3% of the participants stated that they \"Rarely\" experience the problem of \"The software team not having technical competence\". 51.2% of these participants work in the IT sector.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "Based on the text, what percentage of participants rarely experience the problem of \"The software team not having technical competence,\" and what percentage of that group works in the IT sector? "
+    },
+    "Prompt 47": {
+        "Input": "Of the total 246 participants, 36.2% answered \"Inadequate/short orientation is provided\". 34.6% of these participants stated that they \"Frequently\" experience the problem of \"Acceptance Criteria not being determined\".  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What percentage of participants receive inadequate orientation after hiring, and what percentage of that group frequently experiences the problem of \"Acceptance Criteria not being determined\"? "
+    },
+    "Prompt 48": {
+        "Input": "The dataset contains 246 participants. 64.2% of the participants are Bachelor's graduates, and 49.6% are in the position of Software Engineer/Specialist. The rate of those whose company has a Software Quality Unit is 42.3%.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "According to the text, what percentage of participants are Bachelor's graduates, and what percentage of companies have a Software Quality Unit? "
+    },
+    "Prompt 49": {
+        "Input": "The survey contains data on the professional experiences and problems faced by 246 participants. 30.5% of the participants stated that their company's \"Knowledge Management Process\" is \"There's a process in name, but it's not documented\". 51.2% of these participants work in the IT sector.  ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What percentage of participants have a knowledge management process that is not documented, and what percentage of that group works in the IT sector? "
+    },
+    "Prompt 50": {
+        "Input": "Of the total 246 participants, 10.6% have 1 year, 8.1% have 2 years, and 6.9% have 3 years of work experience. 58.9% of the participants use the Agile methodology, and 9.8% use the Waterfall methodology. ",
+        "Long filler text": "This is an experimental setting similar to the needle in a haystack test, where critical information is deeply embedded within an extensive prompt. The model must process the entire input and respond to the query at the conclusion without any external memory aids or restructuring. Dataset missing values are minimal at 1.1% overall. Categorical columns list top frequencies, such as agile methodology users at 58.9%.  ",
+        "Question": "What are the percentages of participants with 1, 2, and 3 years of work experience, and what is the percentage of participants who use the Agile methodology?"
+    }
+}

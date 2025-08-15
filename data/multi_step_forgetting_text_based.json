@@ -1,0 +1,602 @@
+[
+  {
+    "prompt_id": 1,
+    "needle": "A total of 246 people participated in the survey.",
+    "steps": [
+      "The percentage of male participants is 80.5%, while the percentage of female participants is 19.1%.",
+      "51.2% of the participants work in the IT sector.",
+      "The average age of the participants is 33.32.",
+      "43.5% of the participants have experienced the problem of \"requirements not being fully/correctly documented.\"",
+      "64.2% of the participants have a bachelor's degree."
+    ],
+    "question": "What was the total number of participants mentioned at the beginning?"
+  },
+  {
+    "prompt_id": 2,
+    "needle": "The most frequent job position is Software Engineer/Specialist with 49.6%.",
+    "steps": [
+      "The average age of the participants is 33.32.",
+      "38.6% of participants reside in ANKARA.",
+      "57.7% of the companies export software abroad.",
+      "34.6% of participants frequently encounter the problem of \"Acceptance Criteria not being determined.\"",
+      "10.6% of the participants have 1 year of work experience."
+    ],
+    "question": "What is the most frequent job position and its percentage?"
+  },
+  {
+    "prompt_id": 3,
+    "needle": "58.9% of the participants use the Agile methodology.",
+    "steps": [
+      "19.1% of the participants are female.",
+      "The rate of Master's degree graduates is 26.8%.",
+      "The most common problem is \"Requirements not being fully/correctly documented\" (43.5%).",
+      "48% of the companies do not have a Software Quality Unit.",
+      "39.0% have never received training on software quality standards."
+    ],
+    "question": "What percentage of participants use the Agile methodology?"
+  },
+  {
+    "prompt_id": 4,
+    "needle": "The average age of the participants is 33.32, with a median of 32.0.",
+    "steps": [
+      "10.6% have 1 year of work experience.",
+      "49.6% are Software Engineer/Specialists.",
+      "19.1% of the participants live in ISTANBUL.",
+      "37.0% believe quality standards facilitate internal communication.",
+      "24.4% of participants work in companies with more than 1000 employees."
+    ],
+    "question": "What are the average and median ages of the participants?"
+  },
+  {
+    "prompt_id": 5,
+    "needle": "10.6% of the participants have 1 year of work experience.",
+    "steps": [
+      "The total number of participants is 246.",
+      "49.6% are Software Engineer/Specialists.",
+      "57.7% of the companies export software abroad.",
+      "34.6% stated they \"Frequently\" encounter the problem of \"Acceptance Criteria not being determined\".",
+      "30.5% stated their company's \"Knowledge Management process\" is \"There's a process in name, but it's not documented\"."
+    ],
+    "question": "What percentage of participants have 1 year of work experience?"
+  },
+  {
+    "prompt_id": 6,
+    "needle": "64.2% of the participants have a Bachelor's degree.",
+    "steps": [
+      "19.1% are female and 80.5% are male.",
+      "The rate of Master's degree graduates is 26.8%.",
+      "42.3% of the companies have a Software Quality Unit.",
+      "31.3% of participants' testing process is \"a documented process exists\".",
+      "51.2% work in the IT sector."
+    ],
+    "question": "What percentage of participants have a Bachelor's degree?"
+  },
+  {
+    "prompt_id": 7,
+    "needle": "The most frequent sector is IT with 51.2%.",
+    "steps": [
+      "The most frequent job position is Software Engineer/Specialist (49.6%).",
+      "The rate of Master's degree graduates is 26.8%.",
+      "48% of the companies do not have a Software Quality Unit.",
+      "58.9% of the participants use the Agile methodology.",
+      "38.6% of the participants reside in ANKARA."
+    ],
+    "question": "What is the most frequent sector and its percentage?"
+  },
+  {
+    "prompt_id": 8,
+    "needle": "45.1% of the participants receive post-hiring orientation training.",
+    "steps": [
+      "The dataset contains 246 participants.",
+      "64.2% of the participants are Bachelor's graduates.",
+      "The most widely used software methodology is Agile (58.9%).",
+      "39.0% of the participants have never received training on software quality standards.",
+      "37.0% believe quality standards facilitate internal communication."
+    ],
+    "question": "What percentage of participants receive post-hiring orientation training?"
+  },
+  {
+    "prompt_id": 9,
+    "needle": "38.6% of the participants reside in ANKARA.",
+    "steps": [
+      "The total number of participants is 246.",
+      "The average age is 33.32.",
+      "51.2% of the people work in the IT sector.",
+      "42.3% of the companies have a Software Quality Unit.",
+      "19.1% reside in ISTANBUL."
+    ],
+    "question": "What percentage of participants reside in ANKARA?"
+  },
+  {
+    "prompt_id": 10,
+    "needle": "48.0% of the companies do not have a Software Quality Unit.",
+    "steps": [
+      "24.4% of the participants work in companies with more than 1000 employees.",
+      "The most widely used software methodology is Agile (58.9%).",
+      "49.6% are Software Engineer/Specialists.",
+      "8.1% have 2 years of work experience.",
+      "30.1% stated their \"Integration Process\" is \"A documented process exists\"."
+    ],
+    "question": "What percentage of companies do not have a Software Quality Unit?"
+  },
+  {
+    "prompt_id": 11,
+    "needle": "The most common problem is \"Requirements not being fully/correctly documented\" (43.5%).",
+    "steps": [
+      "There are 246 participants.",
+      "The most frequent sector is IT (51.2%).",
+      "The average age is 33.32.",
+      "34.6% stated they \"Frequently\" encounter the problem of \"Acceptance Criteria not being determined\".",
+      "64.2% of the participants have a Bachelor's degree."
+    ],
+    "question": "What is the most common problem mentioned in the text?"
+  },
+  {
+    "prompt_id": 12,
+    "needle": "57.7% of the companies export software abroad.",
+    "steps": [
+      "The total number of participants is 246.",
+      "The most frequent job position is Software Engineer/Specialist with 49.6%.",
+      "10.6% of the participants have 1 year of work experience.",
+      "38.6% of the participants reside in Ankara.",
+      "42.3% of the companies have a Software Quality Unit."
+    ],
+    "question": "What percentage of companies export software abroad?"
+  },
+  {
+    "prompt_id": 13,
+    "needle": "The rate of Master's degree graduates is 26.8%.",
+    "steps": [
+      "The survey is based on data from 246 participants.",
+      "19.1% of the total participants are female.",
+      "51.2% of the people work in the IT sector.",
+      "33.3% stated their company's \"Testing Process\" is \"A documented process exists\".",
+      "64.2% of the participants are Bachelor's graduates."
+    ],
+    "question": "What is the percentage of Master's degree graduates?"
+  },
+  {
+    "prompt_id": 14,
+    "needle": "39.0% of the participants have never received training on software quality standards.",
+    "steps": [
+      "The analysis of the 246 rows in the dataset shows that...",
+      "45.1% of the participants receive post-hiring orientation training.",
+      "48.0% of the companies do not have a Software Quality Unit.",
+      "37.0% believe quality standards facilitate internal communication.",
+      "58.9% of the participants use the Agile methodology."
+    ],
+    "question": "What percentage of participants have never received training on software quality standards?"
+  },
+  {
+    "prompt_id": 15,
+    "needle": "The percentage of male participants is 80.5%.",
+    "steps": [
+      "The total number of participants is 246.",
+      "19.1% are female.",
+      "64.2% are Bachelor's graduates.",
+      "34.6% frequently encounter the problem of \"Acceptance Criteria not being determined\".",
+      "43.5% frequently encounter the problem of \"Requirements not being fully/correctly documented\"."
+    ],
+    "question": "What is the percentage of male participants?"
+  },
+  {
+    "prompt_id": 16,
+    "needle": "42.3% of the participants stated that their companies have a Software Quality Unit.",
+    "steps": [
+      "10.6% have 1 year of work experience.",
+      "8.1% have 2 years of work experience.",
+      "48.0% of the companies do not have a Software Quality Unit.",
+      "51.2% of the people work in the IT sector.",
+      "36.2% have a \"Project Planning Process\" that is \"A documented process exists\"."
+    ],
+    "question": "What percentage of participants' companies have a Software Quality Unit?"
+  },
+  {
+    "prompt_id": 17,
+    "needle": "24.4% of the participants work in companies with more than 1000 employees.",
+    "steps": [
+      "The survey presents data for 246 people.",
+      "58.9% of the participants use the Agile methodology.",
+      "48% of the companies do not have a Software Quality Unit.",
+      "19.1% of participants live in ISTANBUL.",
+      "49.6% are Software Engineer/Specialists."
+    ],
+    "question": "What percentage of participants work in companies with more than 1000 employees?"
+  },
+  {
+    "prompt_id": 18,
+    "needle": "37.0% of the participants believe quality standards facilitate internal communication.",
+    "steps": [
+      "The dataset consists of 246 participants.",
+      "45.1% of the participants receive post-hiring orientation training.",
+      "39.0% have never received training on software quality standards.",
+      "31.7% \"Rarely\" experience the problem of \"Lack of communication\".",
+      "57.7% of the companies export software abroad."
+    ],
+    "question": "What percentage of participants believe quality standards facilitate internal communication?"
+  },
+  {
+    "prompt_id": 19,
+    "needle": "13.8% of the participants work in the position of Team Lead/Group Lead.",
+    "steps": [
+      "The dataset includes 246 people.",
+      "19.1% of the participants are female.",
+      "49.6% are Software Engineer/Specialists.",
+      "24.4% work in companies with more than 1000 employees.",
+      "26.8% have a Master's degree."
+    ],
+    "question": "What percentage of participants hold the position of Team Lead/Group Lead?"
+  },
+  {
+    "prompt_id": 20,
+    "needle": "30.5% stated that their company's \"Knowledge Management process\" is \"There's a process in name, but it's not documented\".",
+    "steps": [
+      "The survey is based on data from 246 participants.",
+      "80.5% are male.",
+      "64.2% are Bachelor's graduates.",
+      "34.6% frequently encounter the problem of \"Acceptance Criteria not being determined\".",
+      "51.2% work in the IT sector."
+    ],
+    "question": "What percentage of participants stated that their company's knowledge management process is not documented but exists in name?"
+  },
+  {
+    "prompt_id": 21,
+    "needle": "The median age of the participants is 32.0.",
+    "steps": [
+      "The dataset contains 246 participants.",
+      "The average age is 33.32.",
+      "38.6% of the participants reside in ANKARA.",
+      "51.2% of the people work in the IT sector.",
+      "42.3% of the companies have a Software Quality Unit."
+    ],
+    "question": "What is the median age of the participants?"
+  },
+  {
+    "prompt_id": 22,
+    "needle": "19.1% of the participants reside in ISTANBUL.",
+    "steps": [
+      "The dataset contains 246 participants.",
+      "38.6% reside in ANKARA.",
+      "7.3% live in IZMIR.",
+      "58.9% use the Agile methodology.",
+      "51.2% of the people work in the IT sector."
+    ],
+    "question": "What percentage of participants reside in ISTANBUL?"
+  },
+  {
+    "prompt_id": 23,
+    "needle": "9.8% of the participants use the Waterfall methodology.",
+    "steps": [
+      "There are 246 participants.",
+      "10.6% have 1 year of work experience.",
+      "8.1% have 2 years of work experience.",
+      "6.9% have 3 years of work experience.",
+      "58.9% use the Agile methodology."
+    ],
+    "question": "What percentage of participants use the Waterfall methodology?"
+  },
+  {
+    "prompt_id": 24,
+    "needle": "51.2% of the participants work in the IT sector.",
+    "steps": [
+      "The survey is based on data from 246 participants.",
+      "64.2% of the participants are Bachelor's graduates.",
+      "16.7% stated they \"Never\" experience \"Lack of communication within the team\".",
+      "58.9% of the participants use the Agile methodology.",
+      "31.3% stated their \"Integration Process\" is \"A documented process exists\"."
+    ],
+    "question": "What percentage of participants work in the IT sector?"
+  },
+  {
+    "prompt_id": 25,
+    "needle": "31.3% of the participants stated that their testing process is \"a documented process exists\".",
+    "steps": [
+      "The survey includes 246 people.",
+      "49.6% are Software Engineer/Specialists.",
+      "26.8% have a Master's degree.",
+      "57.7% of the companies export software abroad.",
+      "42.3% of companies have a Software Quality Unit."
+    ],
+    "question": "What percentage of participants stated that their company's testing process is documented?"
+  },
+  {
+    "prompt_id": 26,
+    "needle": "8.1% of the participants have 2 years of work experience.",
+    "steps": [
+      "The dataset contains 246 people.",
+      "10.6% have 1 year of work experience.",
+      "7.3% have 5 years of work experience.",
+      "58.9% of the participants use the Agile methodology.",
+      "49.6% are Software Engineer/Specialists."
+    ],
+    "question": "What percentage of participants have 2 years of work experience?"
+  },
+  {
+    "prompt_id": 27,
+    "needle": "34.6% of the participants frequently encounter the problem of \"Acceptance Criteria not being determined\".",
+    "steps": [
+      "The survey is based on data from 246 participants.",
+      "49.6% are Software Engineer/Specialists.",
+      "57.7% of the companies export software abroad.",
+      "80.5% are male.",
+      "64.2% are Bachelor's graduates."
+    ],
+    "question": "What percentage of participants frequently encounter the problem of 'Acceptance Criteria not being determined'?"
+  },
+  {
+    "prompt_id": 28,
+    "needle": "43.5% of the participants have experienced the problem of \"requirements not being fully/correctly documented\".",
+    "steps": [
+      "The survey has 246 people.",
+      "51.2% work in the IT sector.",
+      "34.6% frequently encounter the problem of \"Acceptance Criteria not being determined\".",
+      "80.5% are male.",
+      "64.2% are Bachelor's graduates."
+    ],
+    "question": "What percentage of participants have experienced the problem of 'requirements not being fully/correctly documented'?"
+  },
+  {
+    "prompt_id": 29,
+    "needle": "31.3% of the participants stated they \"Rarely\" experience the problem of \"The software team not having technical competence\".",
+    "steps": [
+      "The dataset includes 246 people.",
+      "51.2% of these participants work in the IT sector.",
+      "58.9% of the participants use the Agile methodology.",
+      "49.6% are Software Engineer/Specialists.",
+      "19.1% are female."
+    ],
+    "question": "What percentage of participants rarely experience the problem of the software team not having technical competence?"
+  },
+  {
+    "prompt_id": 30,
+    "needle": "The rate of Master's degree graduates is 26.8%.",
+    "steps": [
+      "The dataset consists of 246 participants.",
+      "49.6% are Software Engineer/Specialists.",
+      "31.3% of the participants' testing process is \"a documented process exists\".",
+      "64.2% of the participants have a Bachelor's degree.",
+      "57.7% of the companies export software abroad."
+    ],
+    "question": "What is the percentage of Master's degree graduates?"
+  },
+  {
+    "prompt_id": 31,
+    "needle": "The percentage of female participants is 19.1%.",
+    "steps": [
+      "The dataset contains 246 participants.",
+      "80.5% are male.",
+      "13.8% work in the position of Team Lead/Group Lead.",
+      "57.7% of the companies export software abroad.",
+      "24.4% of the participants work in companies with more than 1000 employees."
+    ],
+    "question": "What is the percentage of female participants?"
+  },
+  {
+    "prompt_id": 32,
+    "needle": "36.2% of the participants stated that their \"Project Planning Process\" is \"A documented process exists\".",
+    "steps": [
+      "The survey is based on data from 246 participants.",
+      "58.9% of these participants use the Agile methodology.",
+      "80.5% of participants are male.",
+      "19.1% are female.",
+      "51.2% work in the IT sector."
+    ],
+    "question": "What percentage of participants stated that their project planning process is documented?"
+  },
+  {
+    "prompt_id": 33,
+    "needle": "45.1% of the participants receive post-hiring orientation training.",
+    "steps": [
+      "The analysis of the 246 rows in the dataset shows that...",
+      "39.0% have never received training on software quality standards.",
+      "58.9% of the participants use the Agile methodology.",
+      "37.0% believe quality standards facilitate internal communication.",
+      "49.6% are Software Engineer/Specialists."
+    ],
+    "question": "What percentage of participants receive post-hiring orientation training?"
+  },
+  {
+    "prompt_id": 34,
+    "needle": "30.9% of the participants stated that they \"Sometimes\" experience the problem of \"The practice of getting feedback by designing a prototype is not applied\".",
+    "steps": [
+      "The survey has 246 participants.",
+      "49.6% work as a Software Engineer/Specialist.",
+      "13.8% work as a Team Lead/Group Lead.",
+      "57.7% of the companies export software abroad.",
+      "48.0% of the companies do not have a Software Quality Unit."
+    ],
+    "question": "What percentage of participants sometimes experience the problem of 'getting feedback by designing a prototype'?"
+  },
+  {
+    "prompt_id": 35,
+    "needle": "49.6% of the participants are in the position of Software Engineer/Specialist.",
+    "steps": [
+      "The dataset contains 246 people.",
+      "13.8% are in the position of Team Lead/Group Lead.",
+      "8.9% are in the position of Director/Senior Management.",
+      "51.2% work in the IT sector.",
+      "57.7% of the companies export software abroad."
+    ],
+    "question": "What percentage of participants are in the position of Software Engineer/Specialist?"
+  },
+  {
+    "prompt_id": 36,
+    "needle": "34.6% of the participants stated that they work in companies without a Software Quality Unit.",
+    "steps": [
+      "The dataset includes 246 people.",
+      "16.7% do not receive post-hiring orientation training.",
+      "42.3% of the companies have a Software Quality Unit.",
+      "57.7% of the companies export software abroad.",
+      "30.1% stated their \"Integration Process\" is \"A documented process exists\"."
+    ],
+    "question": "What percentage of participants work in companies without a Software Quality Unit?"
+  },
+  {
+    "prompt_id": 37,
+    "needle": "31.3% of the participants stated they \"Never\" experience the problem of \"Version control not being done\".",
+    "steps": [
+      "The survey contains 246 participants.",
+      "34.6% frequently experience the problem of \"Acceptance Criteria not being determined\".",
+      "45.1% receive post-hiring orientation training.",
+      "58.9% use the Agile methodology.",
+      "49.6% are Software Engineer/Specialists."
+    ],
+    "question": "What percentage of participants never experience the problem of 'Version control not being done'?"
+  },
+  {
+    "prompt_id": 38,
+    "needle": "64.2% of the participants are Bachelor's graduates.",
+    "steps": [
+      "The dataset contains 246 participants.",
+      "80.5% are male.",
+      "19.1% are female.",
+      "26.8% are Master's degree graduates.",
+      "43.5% frequently experience the problem of \"Requirements not being fully/correctly documented\"."
+    ],
+    "question": "What percentage of participants are Bachelor's graduates?"
+  },
+  {
+    "prompt_id": 39,
+    "needle": "The most widely used software development lifecycle methodology is Agile (58.9%).",
+    "steps": [
+      "The survey presents data for 246 people.",
+      "24.4% of the participants work in companies with more than 1000 employees.",
+      "48% of the companies do not have a Software Quality Unit.",
+      "10.6% have 1 year of work experience.",
+      "8.1% have 2 years of work experience."
+    ],
+    "question": "What is the percentage of participants who use the Agile methodology?"
+  },
+  {
+    "prompt_id": 40,
+    "needle": "57.7% of the companies export software abroad.",
+    "steps": [
+      "The survey includes 246 participants.",
+      "38.6% of these participants live in Ankara.",
+      "33.3% stated they \"Sometimes\" experience the problem of \"Risks not being managed\".",
+      "49.6% are Software Engineer/Specialists.",
+      "13.8% are Team Lead/Group Leads."
+    ],
+    "question": "What percentage of companies export software abroad?"
+  },
+  {
+    "prompt_id": 41,
+    "needle": "31.3% of the participants stated they \"Sometimes\" experience the problem of \"Errors not being managed\".",
+    "steps": [
+      "The dataset includes 246 people.",
+      "48.0% of these people's companies do not have a Software Quality Unit.",
+      "45.1% receive post-hiring orientation training.",
+      "39.0% have never received training on software quality standards.",
+      "51.2% work in the IT sector."
+    ],
+    "question": "What percentage of participants sometimes experience the problem of 'Errors not being managed'?"
+  },
+  {
+    "prompt_id": 42,
+    "needle": "16.7% of the participants stated they \"Never\" experience the problem of \"Lack of communication within the team\".",
+    "steps": [
+      "The dataset includes 246 people.",
+      "64.2% of these participants are Bachelor's graduates.",
+      "51.2% work in the IT sector.",
+      "80.5% are male.",
+      "19.1% are female."
+    ],
+    "question": "What percentage of participants never experience the problem of 'Lack of communication within the team'?"
+  },
+  {
+    "prompt_id": 43,
+    "needle": "7.3% of the participants reside in IZMIR.",
+    "steps": [
+      "The survey is based on data from 246 participants.",
+      "38.6% reside in ANKARA.",
+      "51.2% of the people work in the IT sector.",
+      "58.9% use the Agile methodology.",
+      "49.6% are Software Engineer/Specialists."
+    ],
+    "question": "What percentage of participants reside in IZMIR?"
+  },
+  {
+    "prompt_id": 44,
+    "needle": "8.9% of the participants are in the position of Director/Senior Management.",
+    "steps": [
+      "The dataset includes 246 people.",
+      "49.6% are in the position of Software Engineer/Specialist.",
+      "57.7% of the companies export software abroad.",
+      "26.8% have a Master's degree.",
+      "64.2% have a Bachelor's degree."
+    ],
+    "question": "What percentage of participants are in the position of Director/Senior Management?"
+  },
+  {
+    "prompt_id": 45,
+    "needle": "The most common problem is \"Requirements not being fully/correctly documented\" (43.5%).",
+    "steps": [
+      "The survey contains data on 246 participants.",
+      "64.2% of these participants are Bachelor's graduates.",
+      "58.9% of the participants use the Agile methodology.",
+      "51.2% work in the IT sector.",
+      "42.3% of companies have a Software Quality Unit."
+    ],
+    "question": "What is the most common problem mentioned in the text?"
+  },
+  {
+    "prompt_id": 46,
+    "needle": "The percentage of male participants is 80.5%.",
+    "steps": [
+      "The survey includes 246 participants.",
+      "19.1% are female.",
+      "38.6% of these males live in Ankara.",
+      "34.6% frequently encounter the problem of \"Acceptance Criteria not being determined\".",
+      "49.6% are Software Engineer/Specialists."
+    ],
+    "question": "What is the percentage of male participants?"
+  },
+  {
+    "prompt_id": 47,
+    "needle": "48.0% of the companies do not have a Software Quality Unit.",
+    "steps": [
+      "The dataset has 246 people.",
+      "37.0% \"Sometimes\" experience the problem of \"Architectural design not being done correctly\".",
+      "51.2% work in the IT sector.",
+      "24.4% work in companies with more than 1000 employees.",
+      "58.9% use the Agile methodology."
+    ],
+    "question": "What percentage of companies do not have a Software Quality Unit?"
+  },
+  {
+    "prompt_id": 48,
+    "needle": "18.7% of the participants stated that they \"Always\" experience the problem of \"Change requests not being controlled\".",
+    "steps": [
+      "The survey contains data on 246 participants.",
+      "51.2% of the people work in the IT sector.",
+      "11.8% have a \"Risk management process\" that is \"A well-functioning, documented process exists\".",
+      "49.6% are Software Engineer/Specialists.",
+      "13.8% are Team Lead/Group Leads."
+    ],
+    "question": "What percentage of participants always experience the problem of 'Change requests not being controlled'?"
+  },
+  {
+    "prompt_id": 49,
+    "needle": "16.7% of the participants do not receive post-hiring orientation training.",
+    "steps": [
+      "The dataset includes 246 people.",
+      "34.6% work in companies without a Software Quality Unit.",
+      "57.7% of the companies export software abroad.",
+      "45.1% of the participants receive post-hiring orientation training.",
+      "58.9% of the participants use the Agile methodology."
+    ],
+    "question": "What percentage of participants do not receive post-hiring orientation training?"
+  },
+  {
+    "prompt_id": 50,
+    "needle": "36.2% answered \"Inadequate/short orientation is provided\".",
+    "steps": [
+      "The survey is based on data from 246 participants.",
+      "34.6% of these participants frequently experience the problem of \"Acceptance Criteria not being determined\".",
+      "45.1% receive post-hiring orientation training.",
+      "51.2% work in the IT sector.",
+      "57.7% of the companies export software abroad."
+    ],
+    "question": "What percentage of participants answered 'Inadequate/short orientation is provided'?"
+  }
+]

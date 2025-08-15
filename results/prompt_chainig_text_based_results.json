@@ -1,0 +1,302 @@
+{
+  "Prompt 1": {
+    "prompt": "The dataset consists of 246 rows and includes various demographic and professional information. 19.1% of the total participants are female. The rate of Master's degree graduates is 26.8%. Based on this, how many participants are in the dataset and what is the percentage of female participants?\n\nA summary of the previous stage shows that there are 246 participants and 19.1% are female. The most frequent sector is IT (51.2%), and the most common problem is \"Requirements not being fully/correctly documented\" (43.5%). What is the most frequent sector and the most common problem mentioned?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 2": {
+    "prompt": "The dataset contains 246 participants. The average age is 33.32, with a median of 32.0. What are the average and median ages of the participants?\n\nThe average age of the 246 participants is 33.32, with a median of 32.0. 38.6% of the participants reside in ANKARA, and 19.1% in ISTANBUL. The percentage of people working in the IT sector is 51.2%. What are the two most common cities of residence for the participants?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 3": {
+    "prompt": "The survey is based on data from 246 participants. The most frequent job position is Software Engineer/Specialist with 122 people (49.6%). What is the most frequent job position and the number of people in that role?\n\nThe most frequent job position is Software Engineer/Specialist with 122 people. 10.6% of the participants have 1 year of work experience. 57.7% of the companies export software abroad. What percentage of participants have 1 year of work experience?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 4": {
+    "prompt": "The survey presents data for 246 people. 24.4% of the participants work in companies with more than 1000 employees. What is the total number of people surveyed and the percentage who work in large companies?\n\nThe survey has 246 participants, and 24.4% work in companies with more than 1000 employees. The most widely used software development lifecycle methodology is Agile (58.9%). 48% of the companies do not have a Software Quality Unit. What is the most widely used methodology and the percentage of companies without a Software Quality Unit?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 5": {
+    "prompt": "According to the analysis of the 246 rows in the dataset, 45.1% of the participants receive post-hiring orientation training. What is the total number of rows and the percentage of people who receive orientation training?\n\nThe dataset has 246 rows, and 45.1% of participants receive post-hiring orientation training. The percentage of those who have never received training on software quality standards is 39.0%. The percentage of those who believe quality standards facilitate internal communication is 37.0%. What percentage of participants have never received training on software quality standards?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 6": {
+    "prompt": "Of the total 246 participants, 80.5% are male and 64.2% are Bachelor's graduates. Based on this, what is the gender breakdown of participants and the percentage of Bachelor's graduates?\n\nThe participants are 80.5% male and 64.2% are Bachelor's graduates. 34.6% of the participants stated that they \"Frequently\" encounter the problem of \"Acceptance Criteria not being determined\". 30.5% stated that their company's \"Knowledge Management process\" is \"There's a process in name, but it's not documented\". What problem do 34.6% of participants frequently encounter?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 7": {
+    "prompt": "49.6% of the 246 survey participants work in the position of Software Engineer/Specialist. What percentage of the survey participants are Software Engineer/Specialists?\n\n49.6% of the 246 participants are Software Engineer/Specialists. 26.8% of this group hold a Master's degree. 31.3% of the participants stated that their testing process is \"a documented process exists\". What percentage of participants hold a Master's degree?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 8": {
+    "prompt": "The analysis of the 246-participant dataset shows that 10.6% have 1 year of work experience, 8.1% have 2 years, and 7.3% have 5 years. What are the percentages of participants with 1 and 2 years of work experience?\n\nBased on the previous stage, 10.6% have 1 year of experience and 8.1% have 2 years. 42.3% of the participants stated that their companies have a Software Quality Unit. What percentage of participants have 5 years of work experience, and what percentage of companies have a Software Quality Unit?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 9": {
+    "prompt": "The survey contains data on the professional experiences and problems faced by 246 participants. 18.7% of the participants stated that they \"Always\" experience the problem of \"Change requests not being controlled\". What percentage of participants always experience the problem of \"Change requests not being controlled\"?\n\nAs noted previously, 18.7% always experience the problem of \"Change requests not being controlled.\" 11.8% of the participants stated that their \"Risk management process\" is \"A well-functioning, documented process exists\". What is the percentage of participants whose companies have a well-functioning, documented risk management process?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 10": {
+    "prompt": "In the 246-person dataset, 37.0% of the participants \"Definitely agree\" that quality standards facilitate internal communication. What is the total number of people in the dataset and the percentage who definitely agree with the statement about quality standards?\n\nWe know there are 246 people and 37.0% \"Definitely agree\" with the statement. 45.1% of this group also receive post-hiring orientation training. What percentage of the group that \"Definitely agrees\" also receives post-hiring orientation training?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 11": {
+    "prompt": "The dataset contains 246 people. 51.2% of them work in the IT sector. The rate of those using the Agile methodology is 58.9%. What is the percentage of participants working in the IT sector?\n\nWe know 51.2% work in the IT sector and 58.9% use the Agile methodology. 48.0% of the participants' companies do not have a Software Quality Unit. What percentage of companies do not have a Software Quality Unit?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 12": {
+    "prompt": "The survey includes demographic and professional characteristics of 246 participants. 64.2% of the participants have a Bachelor's degree, and 26.8% have a Master's degree. What are the percentages of Bachelor's and Master's degree graduates?\n\nIt has been stated that 64.2% have a Bachelor's and 26.8% have a Master's degree. 16.3% of those who \"Frequently\" experience the problem of \"Code reviews not being done\" are Master's degree graduates. What is the percentage of Master's degree graduates who frequently experience the problem of \"Code reviews not being done\"?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 13": {
+    "prompt": "The analysis of the 246-person dataset shows that 19.1% of the participants are female and 13.8% work in the position of Team Lead/Group Lead. What is the percentage of female participants and the percentage of Team Leads/Group Leads?\n\nFrom the last stage, 19.1% are female and 13.8% are Team Leads/Group Leads. 24.4% of the participants work in companies with more than 1000 employees. What is the percentage of participants who work in companies with more than 1000 employees?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 14": {
+    "prompt": "The dataset includes 246 people. 34.6% of the participants stated that they work in companies without a Software Quality Unit. What is the percentage of participants working in companies without a Software Quality Unit?\n\nWe know 34.6% of participants work in companies without a Software Quality Unit. 16.7% do not receive post-hiring orientation training. One of the most frequently used testing methods is User Acceptance Testing (3.3%). What percentage of participants do not receive post-hiring orientation training?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 15": {
+    "prompt": "The survey data shows that 57.7% of the participants' companies export software abroad. 38.6% of these participants live in Ankara. What percentage of companies export software abroad?\n\nIt has been stated that 57.7% of companies export software abroad. 33.3% of the participants stated that they \"Sometimes\" experience the problem of \"Risks not being managed\". What percentage of the participants who work for companies that export software abroad live in Ankara?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 16": {
+    "prompt": "Of the 246 people in the dataset, 49.6% work as Software Engineer/Specialists, while 13.8% are in the position of Team Lead/Group Lead. What are the percentages of Software Engineer/Specialists and Team Leads/Group Leads?\n\nFrom the previous stage, 49.6% are Software Engineer/Specialists and 13.8% are Team Leads/Group Leads. The rate of those who \"Frequently\" experience the problem of \"The project plan is not done correctly\" is 24.4%. What percentage of participants frequently experience the problem of an incorrect project plan?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 17": {
+    "prompt": "The survey data for 246 people shows that 26.8% have a Master's degree. What is the total number of people and the percentage with a Master's degree?\n\nThe survey has 246 people, and 26.8% have a Master's degree. The rate of those who state their company's \"Testing Process\" is \"A documented process exists\" is 33.3%. What percentage of people work for a company with a documented testing process?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 18": {
+    "prompt": "Of the total 246 participants, 31.3% stated that they \"Sometimes\" experience the problem of \"Test plans not being made\". What is the percentage of participants who sometimes experience this problem?\n\nWe know 31.3% sometimes experience the problem of \"Test plans not being made\". 24.4% of the participants work in companies with more than 1000 employees. The rate of those using the Agile methodology is 58.9%. What percentage of participants work in companies with more than 1000 employees?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 19": {
+    "prompt": "According to the survey data, 30.1% of the 246 participants stated that their \"Integration Process\" is \"A documented process exists\". What is the total number of participants and the percentage who have a documented integration process?\n\nThere are 246 participants, and 30.1% have a documented integration process. 51.2% of these participants work in the IT sector. What percentage of the participants who have a documented integration process work in the IT sector?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 20": {
+    "prompt": "Of the total 246 participants, 80.5% are male. 38.6% of these males live in Ankara. What percentage of the participants are male?\n\nIt has been stated that 80.5% of the participants are male. 43.5% stated that they \"Frequently\" experience the problem of \"Requirements not being fully/correctly documented\". What percentage of the male participants live in Ankara?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 21": {
+    "prompt": "The survey is based on data from 246 participants. The most frequent job position is Software Engineer/Specialist with 122 people (49.6%). What is the most frequent job position?\n\nThe most frequent job position is Software Engineer/Specialist. 34.6% of the participants stated that they \"Frequently\" encounter the problem of \"Acceptance Criteria not being determined\". 57.7% of the companies export software abroad. What percentage of companies export software abroad?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 22": {
+    "prompt": "The dataset contains 246 participants. The average age is 33.32, with a median of 32.0. What are the average and median ages?\n\nThe average age is 33.32, and the median is 32.0. 42.3% of the participants stated that their companies have a Software Quality Unit, and 19.1% live in ISTANBUL. What percentage of participants live in Istanbul?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 23": {
+    "prompt": "According to the survey data, 36.2% of the 246 participants stated that their \"Project Planning Process\" is \"A documented process exists\". What percentage of participants have a documented project planning process?\n\nIt has been stated that 36.2% have a documented project planning process. 58.9% of these participants use the Agile methodology. The rate of male participants is 80.5%. What is the percentage of male participants?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 24": {
+    "prompt": "The dataset includes 246 people. 16.7% of the participants stated that they \"Never\" experience the problem of \"Lack of communication within the team\". What percentage of participants never experience this problem?\n\nWe know 16.7% never experience the \"Lack of communication\" problem. 64.2% of these participants are Bachelor's graduates. The rate of those working in the IT sector is 51.2%. What percentage of participants are Bachelor's graduates?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 25": {
+    "prompt": "According to the 246-person dataset, 31.3% of the participants stated that they \"Never\" experience the problem of \"Version control not being done\". What is the percentage of participants who never experience this problem?\n\nIt has been stated that 31.3% of participants never experience the \"Version control\" problem. 45.1% of these participants receive post-hiring orientation training. What percentage of the group that never experiences the \"Version control\" problem receives post-hiring orientation training?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 26": {
+    "prompt": "The survey data shows that 37.0% of the 246 participants \"Sometimes\" experience the problem of \"Architectural design not being done correctly\". What is the percentage of participants who sometimes experience this problem?\n\nWe know 37.0% sometimes experience the \"Architectural design\" problem. 48.0% of these participants' companies do not have a Software Quality Unit. What percentage of their companies do not have a Software Quality Unit?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 27": {
+    "prompt": "The dataset includes 246 people. 24.4% of the participants work in companies with more than 1000 employees. What is the percentage of participants working in companies with more than 1000 employees?\n\nWe know 24.4% of participants work in companies with over 1000 employees. 16.7% work in companies with 11-50 employees. The rate of those using the Agile methodology in projects is 58.9%. What percentage of participants work in companies with 11-50 employees?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 28": {
+    "prompt": "The survey contains data on the professional experiences and problems faced by 246 participants. 18.7% of the participants stated that they \"Always\" experience the problem of \"Change requests not being controlled\". What percentage of participants always experience this problem?\n\nIt has been stated that 18.7% of participants always experience the \"Change requests\" problem. The rate of those working in the IT sector is 51.2%. What percentage of participants work in the IT sector?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 29": {
+    "prompt": "Of the total 246 participants, 49.6% work as a Software Engineer/Specialist. What percentage of participants are Software Engineer/Specialists?\n\nWe know 49.6% are Software Engineer/Specialists. 13.8% work as a Team Lead/Group Lead. 30.9% of the participants stated that they \"Sometimes\" experience the problem of \"The practice of getting feedback by designing a prototype is not applied\". What percentage of participants are Team Leads/Group Leads?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 30": {
+    "prompt": "According to the survey data, 39.0% of the 246 participants have never received training on software quality standards. What is the percentage of participants who have never received this training?\n\nIt has been stated that 39.0% of participants have never received training on software quality standards. 48.0% of this group's companies do not have a Software Quality Unit. What percentage of their companies do not have a Software Quality Unit?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 31": {
+    "prompt": "Of the total 246 participants, 38.6% reside in ANKARA, and 19.1% reside in ISTANBUL. What are the percentages of participants who live in Ankara and Istanbul?\n\nWe know that 38.6% of participants live in Ankara and 19.1% live in Istanbul. The most widely used software methodology is Agile (58.9%). What is the most widely used software methodology?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 32": {
+    "prompt": "The dataset contains 246 participants. The average age is 33.32, with a median of 32.0. What are the average and median ages of the participants?\n\nWe know the average age is 33.32, and the median is 32.0. The most common years of work experience are 1 year (10.6%), 2 years (8.1%), and 5 years (7.3%). What are the three most common years of work experience?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 33": {
+    "prompt": "The survey is based on data from 246 participants. The rate of those working in the IT sector is 51.2%. What percentage of participants work in the IT sector?\n\nWe know 51.2% of participants work in the IT sector. The rate of those whose company has a Software Quality Unit is 42.3%. What percentage of companies have a Software Quality Unit?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 34": {
+    "prompt": "In the 246-person dataset, 31.7% of the participants stated that they \"Rarely\" experience the problem of \"Lack of communication\". What percentage of participants rarely experience this problem?\n\nWe know 31.7% rarely experience \"Lack of communication.\" 48.0% of the companies do not have a Software Quality Unit. The most frequent job position is Software Engineer/Specialist with 122 people (49.6%). What is the most frequent job position and its percentage?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 35": {
+    "prompt": "The survey includes demographic and professional characteristics of 246 participants. 19.1% of the participants are female, and 80.5% are male. What is the gender distribution of the participants?\n\nWe know the participants are 19.1% female and 80.5% male. 57.7% stated that their companies export software abroad. What percentage of companies export software abroad?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 36": {
+    "prompt": "Of the 246 people in the dataset, 45.1% receive post-hiring orientation training. What is the percentage of participants who receive post-hiring orientation training?\n\nIt has been stated that 45.1% receive post-hiring orientation training. 58.9% of these participants use the Agile methodology. What percentage of this group uses the Agile methodology?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 37": {
+    "prompt": "The survey contains data on the professional experiences and problems faced by 246 participants. 31.3% of the participants stated that they \"Never\" experience the problem of \"Version control not being done\". What is the percentage of participants who never experience this problem?\n\nWe know 31.3% never experience \"Version control not being done\". 34.6% also stated that they \"Frequently\" experience the problem of \"Acceptance Criteria not being determined\". What percentage of participants frequently experience the \"Acceptance Criteria\" problem?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 38": {
+    "prompt": "The dataset includes 246 people. 10.6% of the participants have 1 year of work experience, and 8.1% have 2 years. What are the percentages of participants with 1 and 2 years of work experience?\n\nIt has been stated that 10.6% have 1 year and 8.1% have 2 years of work experience. The rate of those working in the IT sector is 51.2%. What is the percentage of participants working in the IT sector?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 39": {
+    "prompt": "The survey includes demographic and professional characteristics of 246 participants. 49.6% of the participants are in the position of Software Engineer/Specialist, and 26.8% are Master's degree graduates. What is the percentage of Software Engineer/Specialists and Master's degree graduates?\n\nWe know 49.6% are Software Engineer/Specialists and 26.8% are Master's degree graduates. 57.7% of the companies export software abroad. What percentage of companies export software abroad?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 40": {
+    "prompt": "Of the total 246 participants, 37.0% stated that they \"Sometimes\" experience the problem of \"Architectural design not being done correctly,\" while 25.2% stated they \"Rarely\" experience it. What is the percentage of participants who \"Sometimes\" and \"Rarely\" experience this problem?\n\nWe know 37.0% \"Sometimes\" and 25.2% \"Rarely\" experience the \"Architectural design\" problem. The most widely used software methodology is Agile (58.9%). What is the percentage of participants who use the Agile methodology?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 41": {
+    "prompt": "The dataset includes 246 people. 31.3% of the participants stated that they \"Sometimes\" experience the problem of \"Errors not being managed\". What percentage of participants sometimes experience this problem?\n\nWe know 31.3% sometimes experience \"Errors not being managed\". 48.0% of these people's companies do not have a Software Quality Unit. What percentage of their companies do not have a Software Quality Unit?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 42": {
+    "prompt": "According to the survey data, 38.6% of the 246 participants live in ANKARA, and 7.3% live in IZMIR. What are the percentages of participants who live in Ankara and Izmir?\n\nWe know that 38.6% of participants live in Ankara and 7.3% live in Izmir. The rate of those working in the IT sector is 51.2%. What is the percentage of participants working in the IT sector?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 43": {
+    "prompt": "Of the total 246 participants, 49.6% are in the position of Software Engineer/Specialist, and 8.9% are in the position of Director/Senior Management. What are the percentages of Software Engineer/Specialists and Director/Senior Management?\n\nWe know 49.6% are Software Engineer/Specialists and 8.9% are Director/Senior Management. What are the two most frequent job positions mentioned?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 44": {
+    "prompt": "The survey contains data on the professional experiences and problems faced by 246 participants. 43.5% of the participants stated that they \"Frequently\" experience the problem of \"Requirements not being fully/correctly documented\". What percentage of participants frequently experience this problem?\n\nWe know 43.5% frequently experience the \"Requirements\" problem. 64.2% of these participants are Bachelor's graduates. What percentage of this group are Bachelor's graduates?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 45": {
+    "prompt": "The dataset includes 246 people. 57.7% of the participants stated that they work in a company that exports software abroad. What percentage of participants work in companies that export software abroad?\n\nWe know 57.7% of participants work in companies that export software abroad. 34.6% answered NO to this. The rate of those whose company has a Software Quality Unit is 42.3%. What percentage of companies have a Software Quality Unit?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 46": {
+    "prompt": "The survey is based on data from 246 participants. 31.3% of the participants stated that they \"Rarely\" experience the problem of \"The software team not having technical competence\". What percentage of participants rarely experience this problem?\n\nWe know 31.3% rarely experience the \"technical competence\" problem. 51.2% of these participants work in the IT sector. What percentage of this group works in the IT sector?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 47": {
+    "prompt": "Of the total 246 participants, 36.2% answered \"Inadequate/short orientation is provided\". What is the percentage of participants who receive inadequate orientation?\n\nWe know 36.2% receive \"Inadequate/short orientation\". 34.6% of these participants stated that they \"Frequently\" experience the problem of \"Acceptance Criteria not being determined\". What percentage of this group frequently experiences the \"Acceptance Criteria\" problem?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 48": {
+    "prompt": "The dataset contains 246 participants. 64.2% of the participants are Bachelor's graduates, and 49.6% are in the position of Software Engineer/Specialist. What are the percentages of Bachelor's graduates and Software Engineer/Specialists?\n\nWe know 64.2% are Bachelor's graduates and 49.6% are Software Engineer/Specialists. The rate of those whose company has a Software Quality Unit is 42.3%. What percentage of companies have a Software Quality Unit?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 49": {
+    "prompt": "The survey contains data on the professional experiences and problems faced by 246 participants. 30.5% of the participants stated that their company's \"Knowledge Management Process\" is \"There's a process in name, but it's not documented\". What percentage of participants have a knowledge management process that is not documented?\n\nWe know 30.5% have an undocumented knowledge management process. 51.2% of these participants work in the IT sector. What percentage of this group works in the IT sector?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  },
+  "Prompt 50": {
+    "prompt": "Of the total 246 participants, 10.6% have 1 year, 8.1% have 2 years, and 6.9% have 3 years of work experience. What are the percentages of participants with 1, 2, and 3 years of work experience?\n\nWe know that 10.6% have 1 year, 8.1% have 2 years, and 6.9% have 3 years of experience. 58.9% of the participants use the Agile methodology, and 9.8% use the Waterfall methodology. What is the percentage of participants who use the Agile methodology?",
+    "gpt4": "API_ERROR: Error code: 401 - {'error': {'message': 'Incorrect API key provided: sk-or-v1*************************************************************1eeb. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}",
+    "claude3": "API_ERROR: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'invalid x-api-key'}}",
+    "expected_answer": "NOT_PROVIDED"
+  }
+}

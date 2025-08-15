@@ -1,0 +1,202 @@
+{
+    "Prompt 1": {
+        "Stage 1": "The survey consists of a total of 246 participants. 19.1% of the participants are female, and 26.8% have a Master's degree. Based on this, how many participants are in the survey and what is the percentage of female participants?",
+        "Stage 2": "A summary of the previous stage: A total of 246 participants and 19.1% are female. The most frequent sector is IT (51.2%), and the most common problem is \"Requirements not being fully/correctly documented\" (43.5%). What is the most frequent sector and the most common problem mentioned?"
+    },
+    "Prompt 2": {
+        "Stage 1": "The survey consists of a total of 246 participants, and 80.5% are male. The percentage of participants with 1-5 years of work experience is 38.2%. Based on this, what is the total number of participants in the survey and what is the percentage of male participants?",
+        "Stage 2": "A summary of the previous stage: A total of 246 participants and 80.5% are male. 42.3% of the participants' companies have a Software Quality Unit, and 58.9% use the Agile methodology. What are the percentages of participants whose companies have a Software Quality Unit and who use Agile?"
+    },
+    "Prompt 3": {
+        "Stage 1": "The survey consists of a total of 246 participants. 38.6% of the participants reside in ANKARA, and 19.1% reside in ISTANBUL. Based on this, which city has the fewest participants and what is the total number of participants?",
+        "Stage 2": "A summary of the previous stage: A total of 246 participants, and the fewest are in Istanbul. 45.1% of the participants receive post-hiring orientation training, while 39.0% have not received previous software quality standards training. What are the percentages of those who have received orientation training and those who have not received standards training?"
+    },
+    "Prompt 4": {
+        "Stage 1": "The survey consists of a total of 246 participants. 49.6% of the participants are in the position of Software Engineer/Specialist. How many of these participants are in the Software Engineer/Specialist position?",
+        "Stage 2": "A summary of the previous stage: 122 of the 246 participants are in the Software Engineer/Specialist position. 34.6% of the participants frequently experience the problem of \"Acceptance Criteria Not Being Defined,\" while 18.7% always experience the problem of \"Change requests cannot be controlled.\" What is the second most common problem and its percentage?"
+    },
+    "Prompt 5": {
+        "Stage 1": "The survey consists of a total of 246 participants. 24.4% of the participants work in companies with more than 1000 employees. Based on this, what is the number of people who work in companies with more than 1000 employees?",
+        "Stage 2": "A summary of the previous stage: Out of a total of 246 participants, 60 work in companies with more than 1000 employees. 57.7% of the participants' companies export software abroad, and 33.3% of these companies sometimes experience the problem of \"Risks not being managed.\" What is the number of people in companies that export software abroad and sometimes experience the \"Risks not being managed\" problem?"
+    },
+    "Prompt 6": {
+        "Stage 1": "The survey consists of a total of 246 participants. 64.2% of the participants are Bachelor's degree graduates. What is the number of Bachelor's degree graduates?",
+        "Stage 2": "A summary of the previous stage: Out of a total of 246 participants, 158 are Bachelor's degree graduates. 37.0% of the participants completely agree that quality standards facilitate communication, while 30.1% stated that their company has a documented integration process. What are the percentages of these two groups?"
+    },
+    "Prompt 7": {
+        "Stage 1": "The survey consists of a total of 246 participants. 51.2% work in the IT sector, and 10.6% work in the Finance sector. Which sector has the most participants and what is its percentage?",
+        "Stage 2": "A summary of the previous stage: The IT sector has the most participants (51.2%). 48.0% of those working in the IT sector do not have a Software Quality Unit in their company. What is the total number of people working in the IT sector who do not have a Software Quality Unit?"
+    },
+    "Prompt 8": {
+        "Stage 1": "The survey consists of a total of 246 participants. 10.6% have 1 year, 8.1% have 2 years, and 7.3% have 5 years of work experience. How many participants in total have 1, 2, or 5 years of experience?",
+        "Stage 2": "A summary of the previous stage: A total of 64 participants have 1, 2, or 5 years of experience. 31.3% of the participants never experience the \"Lack of version control\" problem, and 45.1% of these people receive post-hiring orientation training. What is the number of people who never experience the version control problem and receive orientation training?"
+    },
+    "Prompt 9": {
+        "Stage 1": "The survey consists of a total of 246 participants. 42.3% of the participants' companies have a Software Quality Unit. What is the number of people whose companies have a Software Quality Unit?",
+        "Stage 2": "A summary of the previous stage: 104 of the 246 participants have a Software Quality Unit in their company. 36.2% of the participants have a documented project planning process, and 58.9% of these people use the Agile methodology. What is the number of people who have a documented project planning process and use Agile?"
+    },
+    "Prompt 10": {
+        "Stage 1": "The survey consists of a total of 246 participants. 16.7% of the participants have never experienced the \"Lack of team communication\" problem. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 41 of the 246 participants have never experienced the \"Lack of team communication\" problem. 37.0% of the participants sometimes experience the \"Improper architectural design\" problem, and 48.0% of these people do not have a Software Quality Unit in their company. What is the number of people who sometimes experience the architectural design problem and do not have a Software Quality Unit?"
+    },
+    "Prompt 11": {
+        "Stage 1": "The survey consists of a total of 246 participants. 49.6% of the participants are in the position of Software Engineer/Specialist. What is the number of participants in this position?",
+        "Stage 2": "A summary of the previous stage: 122 of the 246 participants are Software Engineers/Specialists. 30.9% of these people sometimes experience the problem of \"Prototypes are not designed and feedback is not received.\" How many Software Engineers sometimes experience this problem?"
+    },
+    "Prompt 12": {
+        "Stage 1": "The survey consists of a total of 246 participants. 57.7% of the participants' companies export software abroad. What is the number of people who work in companies that export software abroad?",
+        "Stage 2": "A summary of the previous stage: 142 of the 246 participants' companies export software abroad. 18.7% of the participants always experience the \"Change requests cannot be controlled\" problem, and 51.2% of these people work in the IT sector. What is the number of people who experience the change request problem and work in the IT sector?"
+    },
+    "Prompt 13": {
+        "Stage 1": "The survey consists of a total of 246 participants. 39.0% of the participants have not received software quality standards training. What is the number of people who have not attended the training?",
+        "Stage 2": "A summary of the previous stage: 96 of the 246 participants have not received quality standards training. 38.6% of the participants reside in Ankara, and 7.3% reside in Izmir. What is the total number of participants living in Ankara and Izmir?"
+    },
+    "Prompt 14": {
+        "Stage 1": "The survey consists of a total of 246 participants. 37.0% completely agree that quality standards facilitate communication. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 91 of the 246 participants completely agree that standards facilitate communication. 31.3% of the participants never experience the \"Lack of version control\" problem, and 64.2% of these people are Bachelor's degree graduates. What is the number of people who never experience the version control problem and are Bachelor's degree graduates?"
+    },
+    "Prompt 15": {
+        "Stage 1": "The survey consists of a total of 246 participants. 51.2% work in the IT sector, and 10.6% work in the Finance sector. Which sector has the fewest participants and how many people are there?",
+        "Stage 2": "A summary of the previous stage: The Finance sector has the fewest participants (26 people). 30.5% of the participants have an undocumented information management process in their company. 51.2% of these people work in the IT sector. How many people who work in the IT sector have an undocumented information management process?"
+    },
+    "Prompt 16": {
+        "Stage 1": "The survey consists of a total of 246 participants. 49.6% of the participants are in the position of Software Engineer/Specialist. What is the number of people in this position?",
+        "Stage 2": "A summary of the previous stage: 122 of the 246 participants are Software Engineers/Specialists. 26.8% of these people have a Master's degree. Based on this information, what is the number of Software Engineers/Specialists who have a Master's degree?"
+    },
+    "Prompt 17": {
+        "Stage 1": "The survey consists of a total of 246 participants. 64.2% of the participants are Bachelor's degree graduates. What is the number of Bachelor's degree graduates?",
+        "Stage 2": "A summary of the previous stage: 158 of the 246 participants are Bachelor's degree graduates. 43.5% of the participants frequently experience the \"Requirements not being documented\" problem, and 64.2% of these people are Bachelor's degree graduates. What is the total number of participants who are Bachelor's degree graduates and frequently experience the requirements documentation problem?"
+    },
+    "Prompt 18": {
+        "Stage 1": "The survey consists of a total of 246 participants. 36.2% of the participants have a documented project planning process. What is the number of people who have this process?",
+        "Stage 2": "A summary of the previous stage: 89 of the 246 participants have a documented project planning process. 49.6% of the participants are in the Software Engineer/Specialist position, and 8.9% are in the Director/Senior Management position. What is the total number of participants in these two positions?"
+    },
+    "Prompt 19": {
+        "Stage 1": "The survey consists of a total of 246 participants. 58.9% of the participants use the Agile methodology. What is the number of people who use Agile?",
+        "Stage 2": "A summary of the previous stage: 145 of the 246 participants use Agile. 30.1% of the participants' companies have a documented integration process, and 51.2% of these people work in the IT sector. What is the number of people who have a documented integration process and work in the IT sector?"
+    },
+    "Prompt 20": {
+        "Stage 1": "The survey consists of a total of 246 participants. 19.1% live in ISTANBUL, and 7.3% live in IZMIR. How many participants in total live in Istanbul and Izmir?",
+        "Stage 2": "A summary of the previous stage: A total of 65 participants live in Istanbul and Izmir. 57.7% of the participants work for a company that exports software abroad, and 42.3% of these people have a Software Quality Unit in their company. What is the number of people who work for a company that exports software abroad and have a Software Quality Unit?"
+    },
+    "Prompt 21": {
+        "Stage 1": "The survey consists of a total of 246 participants. 10.6% have 1 year of work experience. What is this number of people?",
+        "Stage 2": "A summary of the previous stage: 26 of the 246 participants have 1 year of experience. 31.3% of the participants rarely experience the \"Competencies are not correctly defined\" problem, and 51.2% of these people work in the IT sector. What is the number of people who rarely experience the competency problem and work in the IT sector?"
+    },
+    "Prompt 22": {
+        "Stage 1": "The survey consists of a total of 246 participants. 31.3% have never experienced the \"Version control\" problem. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 77 of the 246 participants have never experienced the version control problem. 36.2% of the participants experience the \"Insufficient orientation\" problem, and 34.6% of these people frequently experience the \"Acceptance criteria\" problem. What is the number of people who experience the insufficient orientation problem and also the acceptance criteria problem?"
+    },
+    "Prompt 23": {
+        "Stage 1": "The survey consists of a total of 246 participants. 64.2% of the participants are Bachelor's degree graduates. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 158 of the 246 participants are Bachelor's degree graduates. 49.6% of the participants are in the Software Engineer/Specialist position, and 64.2% of these people are Bachelor's degree graduates. What is the number of people who are Bachelor's degree graduates and work in the Software Engineer position?"
+    },
+    "Prompt 24": {
+        "Stage 1": "The survey consists of a total of 246 participants. 19.1% are female, and 80.5% are male. How many of the participants are female?",
+        "Stage 2": "A summary of the previous stage: 47 of the 246 participants are female. 26.8% of the participants have a Master's degree, and 33.3% of these people stated that their company's \"Testing Process\" is documented. What is the number of Master's degree graduates who have a documented testing process?"
+    },
+    "Prompt 25": {
+        "Stage 1": "The survey consists of a total of 246 participants. 58.9% use the Agile methodology, and 9.8% use the Waterfall methodology. Which is the most popular methodology?",
+        "Stage 2": "A summary of the previous stage: The most popular methodology is Agile. 43.5% of the participants frequently experience the \"Requirements not being documented\" problem, and 38.6% of these people reside in Ankara. What is the number of people who live in Ankara and frequently experience this problem?"
+    },
+    "Prompt 26": {
+        "Stage 1": "The survey consists of a total of 246 participants. 24.4% of the participants work in companies with more than 1000 employees. What is the number of people working in these companies?",
+        "Stage 2": "A summary of the previous stage: 60 of the 246 participants work in a company with 1000+ employees. 37.0% of the participants sometimes experience the \"Improper architectural design\" problem, and 58.9% of these people use the Agile methodology. What is the number of people who experience the architectural design problem and use Agile?"
+    },
+    "Prompt 27": {
+        "Stage 1": "The survey consists of a total of 246 participants. 30.1% of the participants stated that their company's \"Integration Process\" is documented. What is the number of people who have this process?",
+        "Stage 2": "A summary of the previous stage: 74 of the 246 participants have a documented integration process. 31.3% of the participants sometimes experience the \"Error management\" problem, and 48.0% of these people do not have a Software Quality Unit in their company. What is the number of people who sometimes experience the error management problem and do not have a Software Quality Unit?"
+    },
+    "Prompt 28": {
+        "Stage 1": "The survey consists of a total of 246 participants. 51.2% of the participants work in the IT sector. What is the number of people in this sector?",
+        "Stage 2": "A summary of the previous stage: 126 of the 246 participants work in the IT sector. 34.6% of the participants frequently experience the \"Acceptance Criteria Not Being Defined\" problem, and 64.2% of these people are Bachelor's degree graduates. What is the number of people who frequently experience the acceptance criteria problem and are Bachelor's degree graduates?"
+    },
+    "Prompt 29": {
+        "Stage 1": "The survey consists of a total of 246 participants. 45.1% of the participants receive post-hiring orientation training. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 111 of the 246 participants have received orientation training. 57.7% of the participants' companies export software abroad, and 38.6% of these people reside in Ankara. What is the number of people who work for a company that exports software abroad and live in Ankara?"
+    },
+    "Prompt 30": {
+        "Stage 1": "The survey consists of a total of 246 participants. 39.0% of the participants have not received quality standards training. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 96 of the 246 participants have not received quality standards training. 18.7% of the participants always experience the \"Change requests cannot be controlled\" problem, and 11.8% of these people have a documented risk management process in their company. What is the number of people who experience the change request problem and have a documented risk management process?"
+    },
+    "Prompt 31": {
+        "Stage 1": "The survey consists of a total of 246 participants. 51.2% of the participants work in the IT sector. What is the number of people in this sector?",
+        "Stage 2": "A summary of the previous stage: 126 of the 246 participants work in the IT sector. 42.3% of those working in the IT sector have a Software Quality Unit in their company. What is the number of people who work in the IT sector and have a Software Quality Unit?"
+    },
+    "Prompt 32": {
+        "Stage 1": "The survey consists of a total of 246 participants. 19.1% are female. What is the number of female participants?",
+        "Stage 2": "A summary of the previous stage: 47 of the 246 participants are female. 57.7% of these women work for a company that exports software abroad. What is the number of female participants who work for a company that exports software abroad?"
+    },
+    "Prompt 33": {
+        "Stage 1": "The survey consists of a total of 246 participants. 58.9% of the participants use the Agile methodology. How many people are in this group?",
+        "Stage 2": "A summary of the previous stage: 145 of the 246 participants use Agile. 10.6% have 1 year, 8.1% have 2 years, and 7.3% have 5 years of work experience. What is the total number of participants with 1, 2, or 5 years of experience?"
+    },
+    "Prompt 34": {
+        "Stage 1": "The survey consists of a total of 246 participants. 42.3% of the participants' companies have a Software Quality Unit. What is the number of people working in companies with this unit?",
+        "Stage 2": "A summary of the previous stage: 104 of the 246 participants have a Software Quality Unit in their company. 38.6% of the participants reside in Ankara, and 19.1% reside in Istanbul. What is the total number of participants living in these cities?"
+    },
+    "Prompt 35": {
+        "Stage 1": "The survey consists of a total of 246 participants. 24.4% of the participants work in companies with more than 1000 employees. What is the number of people working in these companies?",
+        "Stage 2": "A summary of the previous stage: 60 of the 246 participants work in a company with 1000+ employees. 58.9% of the participants use the Agile methodology, and 24.4% of these people work in companies with more than 1000 employees. What is the number of people who use Agile and work in companies with more than 1000 employees?"
+    },
+    "Prompt 36": {
+        "Stage 1": "The survey consists of a total of 246 participants. 43.5% of the participants frequently experience the \"Requirements not being fully/correctly documented\" problem. How many people are in this group?",
+        "Stage 2": "A summary of the previous stage: 107 of the 246 participants experience the requirements documentation problem. 64.2% of these people are Bachelor's degree graduates. What is the number of people who are Bachelor's degree graduates and frequently experience the requirements documentation problem?"
+    },
+    "Prompt 37": {
+        "Stage 1": "The survey consists of a total of 246 participants. 30.1% of the participants' companies have a documented integration process. What is the number of people who have this process?",
+        "Stage 2": "A summary of the previous stage: 74 of the 246 participants have a documented integration process. 51.2% of these people work in the IT sector. What is the number of people who have a documented integration process and work in the IT sector?"
+    },
+    "Prompt 38": {
+        "Stage 1": "The survey consists of a total of 246 participants. 37.0% completely agree that quality standards facilitate communication. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 91 of the 246 participants completely agree that standards facilitate communication. 45.1% of the participants receive post-hiring orientation training. What is the number of these people?"
+    },
+    "Prompt 39": {
+        "Stage 1": "The survey consists of a total of 246 participants. 49.6% of the participants are in the Software Engineer/Specialist position. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 122 of the 246 participants are Software Engineers/Specialists. 31.7% of the participants rarely experience the \"Lack of team communication\" problem, and 49.6% of these people are in the Software Engineer/Specialist position. What is the number of people who rarely experience the communication problem and are Software Engineers?"
+    },
+    "Prompt 40": {
+        "Stage 1": "The survey consists of a total of 246 participants. 18.7% of the participants always experience the \"Change requests cannot be controlled\" problem. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 46 of the 246 participants experience the change request problem. 51.2% of the participants work in the IT sector. How many of these people work in the IT sector?"
+    },
+    "Prompt 41": {
+        "Stage 1": "The survey consists of a total of 246 participants. 31.3% have never experienced the \"Version control\" problem. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 77 of the 246 participants have never experienced the version control problem. 58.9% of the participants use the Agile methodology. How many of these people use Agile?"
+    },
+    "Prompt 42": {
+        "Stage 1": "The survey consists of a total of 246 participants. 38.6% reside in Ankara. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 95 of the 246 participants live in Ankara. 48.0% of the participants' companies do not have a Software Quality Unit. What is the number of people who work in these companies?"
+    },
+    "Prompt 43": {
+        "Stage 1": "The survey consists of a total of 246 participants. 64.2% of the participants are Bachelor's degree graduates. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 158 of the 246 participants are Bachelor's degree graduates. 34.6% of the participants frequently experience the \"Acceptance criteria not being defined\" problem. What is the number of these people?"
+    },
+    "Prompt 44": {
+        "Stage 1": "The survey consists of a total of 246 participants. 26.8% of the participants have a Master's degree. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 66 of the 246 participants have a Master's degree. 16.3% of the participants frequently experience the \"Code reviews are not being done\" problem. What is the number of these people?"
+    },
+    "Prompt 45": {
+        "Stage 1": "The survey consists of a total of 246 participants. 57.7% of the participants' companies export software. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 142 of the 246 participants' companies export software. 33.3% of the participants sometimes experience the \"Risks not being managed\" problem. What is the number of these people?"
+    },
+    "Prompt 46": {
+        "Stage 1": "The survey consists of a total of 246 participants. 37.0% of the participants sometimes experience the \"Architectural design\" problem. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 91 of the 246 participants experience the architectural design problem. 58.9% of the participants use the Agile methodology. What is the number of these people?"
+    },
+    "Prompt 47": {
+        "Stage 1": "The survey consists of a total of 246 participants. 45.1% of the participants receive orientation training. What is the number of these people?",
+        "Stage 2": "A summary of the previous stage: 111 of the 246 participants have received orientation training. 39.0% of the participants have not received quality standards training. What is the number of these people?"
+    },
+    "Prompt 48": {
+        "Stage 1": "The survey consists of a total of 246 participants. 10.6% have 1 year of experience, and 8.1% have 2 years of experience. What is the total number of participants in these two groups?",
+        "Stage 2": "A summary of the previous stage: 46 participants have 1 or 2 years of experience. 51.2% of these people work in the IT sector. How many of these people work in the IT sector?"
+    },
+    "Prompt 49": {
+        "Stage 1": "The survey consists of a total of 246 participants. 30.5% of the participants' companies have an undocumented information management process. What is this number of people?",
+        "Stage 2": "A summary of the previous stage: 75 of the 246 participants' companies have an undocumented information management process. 51.2% of these people work in the IT sector. How many of these people work in the IT sector?"
+    },
+    "Prompt 50": {
+        "Stage 1": "The survey consists of a total of 246 participants. 49.6% are in the position of Software Engineer/Specialist, and 13.8% are in the position of Team Leader/Group Leader. What is the total number of participants in these positions?",
+        "Stage 2": "A summary of the previous stage: 156 of the 246 participants are Software Engineers or Team Leaders. 34.6% of the participants frequently experience the \"Acceptance Criteria Not Being Defined\" problem. How many of these people experience this problem?"
+    }
+}
